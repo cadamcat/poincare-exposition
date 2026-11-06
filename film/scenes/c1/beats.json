@@ -1,0 +1,483 @@
+{
+ "chapter": "c1",
+ "voice": "marin",
+ "model": "gpt-4o-mini-tts",
+ "speed": null,
+ "audio": "c1.wav",
+ "duration": 31.0,
+ "inserted": [
+  {
+   "at": 30.25,
+   "seconds": 0.75,
+   "where": "after c1b4",
+   "reason": [
+    "tail+0.8: picture fades out"
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "id": "c1b1",
+   "status": "heuristic",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 0.0,
+   "end": 7.18,
+   "holdEnd": 7.625,
+   "text": "Stretch a rubber band around an apple. You can slide it over the surface and shrink it to a point, without tearing it.",
+   "words": [
+    {
+     "word": "Stretch",
+     "start": 0.26,
+     "end": 0.76
+    },
+    {
+     "word": "a",
+     "start": 0.76,
+     "end": 1.16
+    },
+    {
+     "word": "rubber",
+     "start": 1.16,
+     "end": 1.32
+    },
+    {
+     "word": "band",
+     "start": 1.32,
+     "end": 1.66
+    },
+    {
+     "word": "around",
+     "start": 1.66,
+     "end": 2.24
+    },
+    {
+     "word": "an",
+     "start": 2.24,
+     "end": 2.68
+    },
+    {
+     "word": "apple.",
+     "start": 2.68,
+     "end": 2.68
+    },
+    {
+     "word": "You",
+     "start": 3.44,
+     "end": 3.46
+    },
+    {
+     "word": "can",
+     "start": 3.46,
+     "end": 3.76
+    },
+    {
+     "word": "slide",
+     "start": 3.76,
+     "end": 4.0
+    },
+    {
+     "word": "it",
+     "start": 4.0,
+     "end": 4.26
+    },
+    {
+     "word": "over",
+     "start": 4.26,
+     "end": 4.32
+    },
+    {
+     "word": "the",
+     "start": 4.32,
+     "end": 4.64
+    },
+    {
+     "word": "surface",
+     "start": 4.64,
+     "end": 4.78
+    },
+    {
+     "word": "and",
+     "start": 4.78,
+     "end": 5.16
+    },
+    {
+     "word": "shrink",
+     "start": 5.16,
+     "end": 5.36
+    },
+    {
+     "word": "it",
+     "start": 5.36,
+     "end": 5.54
+    },
+    {
+     "word": "to",
+     "start": 5.54,
+     "end": 5.64
+    },
+    {
+     "word": "a",
+     "start": 5.64,
+     "end": 6.06
+    },
+    {
+     "word": "point,",
+     "start": 6.06,
+     "end": 6.06
+    },
+    {
+     "word": "without",
+     "start": 6.06,
+     "end": 6.7
+    },
+    {
+     "word": "tearing",
+     "start": 6.7,
+     "end": 6.96
+    },
+    {
+     "word": "it.",
+     "start": 6.96,
+     "end": 7.18
+    }
+   ]
+  },
+  {
+   "id": "c1b2",
+   "status": "heuristic",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 7.625,
+   "end": 14.96,
+   "holdEnd": 15.375,
+   "text": "Around a doughnut, a band through the hole cannot shrink. These are surfaces, so this picture lives in two dimensions.",
+   "words": [
+    {
+     "word": "Around",
+     "start": 8.07,
+     "end": 8.34
+    },
+    {
+     "word": "a",
+     "start": 8.34,
+     "end": 8.7
+    },
+    {
+     "word": "doughnut,",
+     "start": 8.7,
+     "end": 8.9
+    },
+    {
+     "word": "a",
+     "start": 9.24,
+     "end": 9.78
+    },
+    {
+     "word": "band",
+     "start": 9.78,
+     "end": 9.78
+    },
+    {
+     "word": "through",
+     "start": 9.78,
+     "end": 10.02
+    },
+    {
+     "word": "the",
+     "start": 10.02,
+     "end": 10.4
+    },
+    {
+     "word": "hole",
+     "start": 10.4,
+     "end": 10.4
+    },
+    {
+     "word": "cannot",
+     "start": 10.4,
+     "end": 10.76
+    },
+    {
+     "word": "shrink.",
+     "start": 10.76,
+     "end": 11.08
+    },
+    {
+     "word": "These",
+     "start": 12.28,
+     "end": 12.44
+    },
+    {
+     "word": "are",
+     "start": 12.44,
+     "end": 12.74
+    },
+    {
+     "word": "surfaces,",
+     "start": 12.74,
+     "end": 12.96
+    },
+    {
+     "word": "so",
+     "start": 13.14,
+     "end": 13.28
+    },
+    {
+     "word": "this",
+     "start": 13.28,
+     "end": 13.52
+    },
+    {
+     "word": "picture",
+     "start": 13.52,
+     "end": 13.8
+    },
+    {
+     "word": "lives",
+     "start": 13.8,
+     "end": 14.04
+    },
+    {
+     "word": "in",
+     "start": 14.04,
+     "end": 14.26
+    },
+    {
+     "word": "two",
+     "start": 14.26,
+     "end": 14.48
+    },
+    {
+     "word": "dimensions.",
+     "start": 14.48,
+     "end": 14.96
+    }
+   ]
+  },
+  {
+   "id": "c1b3",
+   "status": "context",
+   "hold": "short",
+   "paragraph": "1.2",
+   "start": 15.375,
+   "end": 23.5,
+   "holdEnd": 23.895,
+   "text": "In nineteen oh four, Henri Poincaré asked the same question one dimension up. Nearly a century passed before it was answered.",
+   "words": [
+    {
+     "word": "In",
+     "start": 15.79,
+     "end": 15.98
+    },
+    {
+     "word": "nineteen",
+     "start": 15.98,
+     "end": 16.446
+    },
+    {
+     "word": "oh",
+     "start": 16.446,
+     "end": 16.601
+    },
+    {
+     "word": "four,",
+     "start": 16.601,
+     "end": 16.86
+    },
+    {
+     "word": "Henri",
+     "start": 17.34,
+     "end": 17.72
+    },
+    {
+     "word": "Poincaré",
+     "start": 17.72,
+     "end": 18.08
+    },
+    {
+     "word": "asked",
+     "start": 18.08,
+     "end": 18.5
+    },
+    {
+     "word": "the",
+     "start": 18.5,
+     "end": 18.72
+    },
+    {
+     "word": "same",
+     "start": 18.72,
+     "end": 19.06
+    },
+    {
+     "word": "question",
+     "start": 19.06,
+     "end": 19.42
+    },
+    {
+     "word": "one",
+     "start": 19.42,
+     "end": 19.8
+    },
+    {
+     "word": "dimension",
+     "start": 19.8,
+     "end": 20.04
+    },
+    {
+     "word": "up.",
+     "start": 20.04,
+     "end": 20.66
+    },
+    {
+     "word": "Nearly",
+     "start": 21.42,
+     "end": 21.6
+    },
+    {
+     "word": "a",
+     "start": 21.6,
+     "end": 22.06
+    },
+    {
+     "word": "century",
+     "start": 22.06,
+     "end": 22.16
+    },
+    {
+     "word": "passed",
+     "start": 22.16,
+     "end": 22.62
+    },
+    {
+     "word": "before",
+     "start": 22.62,
+     "end": 22.86
+    },
+    {
+     "word": "it",
+     "start": 22.86,
+     "end": 22.98
+    },
+    {
+     "word": "was",
+     "start": 22.98,
+     "end": 23.42
+    },
+    {
+     "word": "answered.",
+     "start": 23.42,
+     "end": 23.5
+    }
+   ]
+  },
+  {
+   "id": "c1b4",
+   "status": "context",
+   "hold": "short",
+   "paragraph": "1.2",
+   "start": 23.895,
+   "end": 30.2,
+   "holdEnd": 31.0,
+   "text": "This film explains that answer: the proof by Ricci flow, and what a computer proof checker has now verified.",
+   "words": [
+    {
+     "word": "This",
+     "start": 24.29,
+     "end": 24.54
+    },
+    {
+     "word": "film",
+     "start": 24.54,
+     "end": 24.76
+    },
+    {
+     "word": "explains",
+     "start": 24.76,
+     "end": 25.22
+    },
+    {
+     "word": "that",
+     "start": 25.22,
+     "end": 25.48
+    },
+    {
+     "word": "answer:",
+     "start": 25.48,
+     "end": 25.7
+    },
+    {
+     "word": "the",
+     "start": 26.26,
+     "end": 26.56
+    },
+    {
+     "word": "proof",
+     "start": 26.56,
+     "end": 26.64
+    },
+    {
+     "word": "by",
+     "start": 26.64,
+     "end": 26.92
+    },
+    {
+     "word": "Ricci",
+     "start": 26.92,
+     "end": 27.18
+    },
+    {
+     "word": "flow,",
+     "start": 27.18,
+     "end": 27.46
+    },
+    {
+     "word": "and",
+     "start": 27.46,
+     "end": 28.04
+    },
+    {
+     "word": "what",
+     "start": 28.04,
+     "end": 28.2
+    },
+    {
+     "word": "a",
+     "start": 28.2,
+     "end": 28.4
+    },
+    {
+     "word": "computer",
+     "start": 28.4,
+     "end": 28.72
+    },
+    {
+     "word": "proof",
+     "start": 28.72,
+     "end": 28.98
+    },
+    {
+     "word": "checker",
+     "start": 28.98,
+     "end": 29.34
+    },
+    {
+     "word": "has",
+     "start": 29.34,
+     "end": 29.52
+    },
+    {
+     "word": "now",
+     "start": 29.52,
+     "end": 29.76
+    },
+    {
+     "word": "verified.",
+     "start": 29.76,
+     "end": 30.2
+    }
+   ]
+  }
+ ]
+}

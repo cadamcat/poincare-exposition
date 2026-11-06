@@ -1,0 +1,773 @@
+{
+ "chapter": "c5",
+ "voice": "marin",
+ "model": "gpt-4o-mini-tts",
+ "speed": null,
+ "audio": "c5.wav",
+ "duration": 53.91,
+ "inserted": [
+  {
+   "at": 0.0,
+   "seconds": 1.2,
+   "where": "chapter start",
+   "reason": [
+    "chapter title settles"
+   ]
+  },
+  {
+   "at": 53.35,
+   "seconds": 0.56,
+   "where": "after c5b5",
+   "reason": [
+    "tail+0.8: picture fades out"
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "id": "c5b1",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 1.2,
+   "end": 15.38,
+   "holdEnd": 15.675,
+   "text": "Now surgery can be done in a standard way. Find a thin neck, cut it along its middle sphere, and glue a standard cap onto each side. Pieces that are almost round are set aside. Then the flow restarts.",
+   "words": [
+    {
+     "word": "Now",
+     "start": 1.2,
+     "end": 1.68
+    },
+    {
+     "word": "surgery",
+     "start": 2.06,
+     "end": 2.26
+    },
+    {
+     "word": "can",
+     "start": 2.26,
+     "end": 2.56
+    },
+    {
+     "word": "be",
+     "start": 2.56,
+     "end": 2.98
+    },
+    {
+     "word": "done",
+     "start": 2.98,
+     "end": 2.98
+    },
+    {
+     "word": "in",
+     "start": 2.98,
+     "end": 3.22
+    },
+    {
+     "word": "a",
+     "start": 3.22,
+     "end": 3.48
+    },
+    {
+     "word": "standard",
+     "start": 3.48,
+     "end": 3.76
+    },
+    {
+     "word": "way.",
+     "start": 3.76,
+     "end": 4.12
+    },
+    {
+     "word": "Find",
+     "start": 5.0,
+     "end": 5.0
+    },
+    {
+     "word": "a",
+     "start": 5.0,
+     "end": 5.4
+    },
+    {
+     "word": "thin",
+     "start": 5.4,
+     "end": 5.42
+    },
+    {
+     "word": "neck,",
+     "start": 5.42,
+     "end": 5.7
+    },
+    {
+     "word": "cut",
+     "start": 6.42,
+     "end": 6.44
+    },
+    {
+     "word": "it",
+     "start": 6.44,
+     "end": 6.72
+    },
+    {
+     "word": "along",
+     "start": 6.72,
+     "end": 6.84
+    },
+    {
+     "word": "its",
+     "start": 6.84,
+     "end": 7.08
+    },
+    {
+     "word": "middle",
+     "start": 7.08,
+     "end": 7.38
+    },
+    {
+     "word": "sphere,",
+     "start": 7.38,
+     "end": 7.64
+    },
+    {
+     "word": "and",
+     "start": 7.86,
+     "end": 8.36
+    },
+    {
+     "word": "glue",
+     "start": 8.36,
+     "end": 8.5
+    },
+    {
+     "word": "a",
+     "start": 8.5,
+     "end": 8.86
+    },
+    {
+     "word": "standard",
+     "start": 8.86,
+     "end": 9.1
+    },
+    {
+     "word": "cap",
+     "start": 9.1,
+     "end": 9.44
+    },
+    {
+     "word": "onto",
+     "start": 9.44,
+     "end": 9.74
+    },
+    {
+     "word": "each",
+     "start": 9.74,
+     "end": 10.04
+    },
+    {
+     "word": "side.",
+     "start": 10.04,
+     "end": 10.32
+    },
+    {
+     "word": "Pieces",
+     "start": 11.42,
+     "end": 11.42
+    },
+    {
+     "word": "that",
+     "start": 11.42,
+     "end": 11.72
+    },
+    {
+     "word": "are",
+     "start": 11.72,
+     "end": 11.92
+    },
+    {
+     "word": "almost",
+     "start": 11.92,
+     "end": 12.22
+    },
+    {
+     "word": "round",
+     "start": 12.22,
+     "end": 12.58
+    },
+    {
+     "word": "are",
+     "start": 12.58,
+     "end": 12.94
+    },
+    {
+     "word": "set",
+     "start": 12.94,
+     "end": 13.12
+    },
+    {
+     "word": "aside.",
+     "start": 13.12,
+     "end": 13.44
+    },
+    {
+     "word": "Then",
+     "start": 14.16,
+     "end": 14.32
+    },
+    {
+     "word": "the",
+     "start": 14.32,
+     "end": 14.62
+    },
+    {
+     "word": "flow",
+     "start": 14.62,
+     "end": 14.68
+    },
+    {
+     "word": "restarts.",
+     "start": 14.68,
+     "end": 15.38
+    }
+   ]
+  },
+  {
+   "id": "c5b2",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 15.675,
+   "end": 21.8,
+   "holdEnd": 22.12,
+   "text": "Each surgery removes a definite amount of volume. So surgeries cannot pile up in a finite time.",
+   "words": [
+    {
+     "word": "Each",
+     "start": 15.97,
+     "end": 16.22
+    },
+    {
+     "word": "surgery",
+     "start": 16.22,
+     "end": 16.6
+    },
+    {
+     "word": "removes",
+     "start": 16.6,
+     "end": 17.04
+    },
+    {
+     "word": "a",
+     "start": 17.04,
+     "end": 17.66
+    },
+    {
+     "word": "definite",
+     "start": 17.66,
+     "end": 17.66
+    },
+    {
+     "word": "amount",
+     "start": 17.66,
+     "end": 17.92
+    },
+    {
+     "word": "of",
+     "start": 17.92,
+     "end": 18.5
+    },
+    {
+     "word": "volume.",
+     "start": 18.5,
+     "end": 18.5
+    },
+    {
+     "word": "So",
+     "start": 19.14,
+     "end": 19.48
+    },
+    {
+     "word": "surgeries",
+     "start": 19.48,
+     "end": 19.72
+    },
+    {
+     "word": "cannot",
+     "start": 19.72,
+     "end": 20.2
+    },
+    {
+     "word": "pile",
+     "start": 20.2,
+     "end": 20.54
+    },
+    {
+     "word": "up",
+     "start": 20.54,
+     "end": 20.8
+    },
+    {
+     "word": "in",
+     "start": 20.8,
+     "end": 21.0
+    },
+    {
+     "word": "a",
+     "start": 21.0,
+     "end": 21.34
+    },
+    {
+     "word": "finite",
+     "start": 21.34,
+     "end": 21.34
+    },
+    {
+     "word": "time.",
+     "start": 21.34,
+     "end": 21.8
+    }
+   ]
+  },
+  {
+   "id": "c5b3",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 22.12,
+   "end": 30.45,
+   "holdEnd": 30.81,
+   "text": "Perelman proved that the canonical neighbourhoods survive every surgery. So the flow with surgery runs for all time, from any starting shape.",
+   "words": [
+    {
+     "word": "Perelman",
+     "start": 22.44,
+     "end": 22.88
+    },
+    {
+     "word": "proved",
+     "start": 22.88,
+     "end": 23.26
+    },
+    {
+     "word": "that",
+     "start": 23.26,
+     "end": 23.48
+    },
+    {
+     "word": "the",
+     "start": 23.48,
+     "end": 23.72
+    },
+    {
+     "word": "canonical",
+     "start": 23.72,
+     "end": 24.06
+    },
+    {
+     "word": "neighbourhoods",
+     "start": 24.06,
+     "end": 24.54
+    },
+    {
+     "word": "survive",
+     "start": 24.54,
+     "end": 25.0
+    },
+    {
+     "word": "every",
+     "start": 25.0,
+     "end": 25.52
+    },
+    {
+     "word": "surgery.",
+     "start": 25.52,
+     "end": 25.86
+    },
+    {
+     "word": "So",
+     "start": 26.48,
+     "end": 26.72
+    },
+    {
+     "word": "the",
+     "start": 26.72,
+     "end": 26.92
+    },
+    {
+     "word": "flow",
+     "start": 26.92,
+     "end": 27.08
+    },
+    {
+     "word": "with",
+     "start": 27.08,
+     "end": 27.7
+    },
+    {
+     "word": "surgery",
+     "start": 27.7,
+     "end": 27.7
+    },
+    {
+     "word": "runs",
+     "start": 27.7,
+     "end": 27.98
+    },
+    {
+     "word": "for",
+     "start": 27.98,
+     "end": 28.28
+    },
+    {
+     "word": "all",
+     "start": 28.28,
+     "end": 28.52
+    },
+    {
+     "word": "time,",
+     "start": 28.52,
+     "end": 28.82
+    },
+    {
+     "word": "from",
+     "start": 29.22,
+     "end": 29.4
+    },
+    {
+     "word": "any",
+     "start": 29.4,
+     "end": 29.82
+    },
+    {
+     "word": "starting",
+     "start": 29.82,
+     "end": 30.04
+    },
+    {
+     "word": "shape.",
+     "start": 30.04,
+     "end": 30.45
+    }
+   ]
+  },
+  {
+   "id": "c5b4",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "1.2",
+   "start": 30.81,
+   "end": 38.93,
+   "holdEnd": 39.27,
+   "text": "Topologically, cutting a neck undoes a connected sum. If the neck separates M, then M falls into two simpler pieces.",
+   "words": [
+    {
+     "word": "Topologically,",
+     "start": 31.17,
+     "end": 31.86
+    },
+    {
+     "word": "cutting",
+     "start": 32.02,
+     "end": 32.22
+    },
+    {
+     "word": "a",
+     "start": 32.22,
+     "end": 32.66
+    },
+    {
+     "word": "neck",
+     "start": 32.66,
+     "end": 32.66
+    },
+    {
+     "word": "undoes",
+     "start": 32.66,
+     "end": 33.42
+    },
+    {
+     "word": "a",
+     "start": 33.42,
+     "end": 33.6
+    },
+    {
+     "word": "connected",
+     "start": 33.6,
+     "end": 33.94
+    },
+    {
+     "word": "sum.",
+     "start": 33.94,
+     "end": 34.24
+    },
+    {
+     "word": "If",
+     "start": 34.98,
+     "end": 35.08
+    },
+    {
+     "word": "the",
+     "start": 35.08,
+     "end": 35.24
+    },
+    {
+     "word": "neck",
+     "start": 35.24,
+     "end": 35.44
+    },
+    {
+     "word": "separates",
+     "start": 35.44,
+     "end": 35.88
+    },
+    {
+     "word": "M,",
+     "start": 35.88,
+     "end": 36.22
+    },
+    {
+     "word": "then",
+     "start": 36.66,
+     "end": 36.96
+    },
+    {
+     "word": "M",
+     "start": 36.96,
+     "end": 37.22
+    },
+    {
+     "word": "falls",
+     "start": 37.22,
+     "end": 37.54
+    },
+    {
+     "word": "into",
+     "start": 37.54,
+     "end": 37.78
+    },
+    {
+     "word": "two",
+     "start": 37.78,
+     "end": 38.12
+    },
+    {
+     "word": "simpler",
+     "start": 38.12,
+     "end": 38.44
+    },
+    {
+     "word": "pieces.",
+     "start": 38.44,
+     "end": 38.93
+    }
+   ]
+  },
+  {
+   "id": "c5b5",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "1.2",
+   "start": 39.27,
+   "end": 53.11,
+   "holdEnd": 53.91,
+   "text": "But a neck need not separate. Picture a tube bent into a ring. Each circle stands for a two-sphere, so this is the product of a two-sphere and a circle. Cutting one neck leaves a single piece, a three-sphere.",
+   "words": [
+    {
+     "word": "But",
+     "start": 39.61,
+     "end": 39.72
+    },
+    {
+     "word": "a",
+     "start": 39.72,
+     "end": 40.04
+    },
+    {
+     "word": "neck",
+     "start": 40.04,
+     "end": 40.04
+    },
+    {
+     "word": "need",
+     "start": 40.04,
+     "end": 40.4
+    },
+    {
+     "word": "not",
+     "start": 40.4,
+     "end": 40.66
+    },
+    {
+     "word": "separate.",
+     "start": 40.66,
+     "end": 41.0
+    },
+    {
+     "word": "Picture",
+     "start": 42.08,
+     "end": 42.08
+    },
+    {
+     "word": "a",
+     "start": 42.08,
+     "end": 42.6
+    },
+    {
+     "word": "tube",
+     "start": 42.6,
+     "end": 42.6
+    },
+    {
+     "word": "bent",
+     "start": 42.6,
+     "end": 42.96
+    },
+    {
+     "word": "into",
+     "start": 42.96,
+     "end": 43.22
+    },
+    {
+     "word": "a",
+     "start": 43.22,
+     "end": 43.58
+    },
+    {
+     "word": "ring.",
+     "start": 43.58,
+     "end": 43.58
+    },
+    {
+     "word": "Each",
+     "start": 44.42,
+     "end": 44.5
+    },
+    {
+     "word": "circle",
+     "start": 44.5,
+     "end": 44.86
+    },
+    {
+     "word": "stands",
+     "start": 44.86,
+     "end": 45.22
+    },
+    {
+     "word": "for",
+     "start": 45.22,
+     "end": 45.44
+    },
+    {
+     "word": "a",
+     "start": 45.44,
+     "end": 45.64
+    },
+    {
+     "word": "two-sphere,",
+     "start": 45.64,
+     "end": 45.96
+    },
+    {
+     "word": "so",
+     "start": 46.62,
+     "end": 46.8
+    },
+    {
+     "word": "this",
+     "start": 46.8,
+     "end": 46.96
+    },
+    {
+     "word": "is",
+     "start": 46.96,
+     "end": 47.1
+    },
+    {
+     "word": "the",
+     "start": 47.1,
+     "end": 47.3
+    },
+    {
+     "word": "product",
+     "start": 47.3,
+     "end": 47.58
+    },
+    {
+     "word": "of",
+     "start": 47.58,
+     "end": 47.78
+    },
+    {
+     "word": "a",
+     "start": 47.78,
+     "end": 47.9
+    },
+    {
+     "word": "two-sphere",
+     "start": 47.9,
+     "end": 48.32
+    },
+    {
+     "word": "and",
+     "start": 48.32,
+     "end": 48.56
+    },
+    {
+     "word": "a",
+     "start": 48.56,
+     "end": 49.06
+    },
+    {
+     "word": "circle.",
+     "start": 49.06,
+     "end": 49.2
+    },
+    {
+     "word": "Cutting",
+     "start": 49.9,
+     "end": 50.04
+    },
+    {
+     "word": "one",
+     "start": 50.04,
+     "end": 50.36
+    },
+    {
+     "word": "neck",
+     "start": 50.36,
+     "end": 50.6
+    },
+    {
+     "word": "leaves",
+     "start": 50.6,
+     "end": 51.06
+    },
+    {
+     "word": "a",
+     "start": 51.06,
+     "end": 51.26
+    },
+    {
+     "word": "single",
+     "start": 51.26,
+     "end": 51.54
+    },
+    {
+     "word": "piece,",
+     "start": 51.54,
+     "end": 51.88
+    },
+    {
+     "word": "a",
+     "start": 52.12,
+     "end": 52.52
+    },
+    {
+     "word": "three-sphere.",
+     "start": 52.52,
+     "end": 53.11
+    }
+   ]
+  }
+ ]
+}

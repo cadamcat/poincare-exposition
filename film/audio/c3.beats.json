@@ -1,0 +1,1153 @@
+{
+ "chapter": "c3",
+ "voice": "marin",
+ "model": "gpt-4o-mini-tts",
+ "speed": null,
+ "audio": "c3.wav",
+ "duration": 76.365,
+ "inserted": [
+  {
+   "at": 0.0,
+   "seconds": 1.2,
+   "where": "chapter start",
+   "reason": [
+    "chapter title settles"
+   ]
+  },
+  {
+   "at": 30.79,
+   "seconds": 0.54,
+   "where": "passage join",
+   "reason": [
+    "median paragraph pause of the voice in this chapter"
+   ]
+  },
+  {
+   "at": 39.235,
+   "seconds": 0.115,
+   "where": "after c3b4",
+   "reason": [
+    "tail+0.4: shrunk sphere and the radius line leave"
+   ]
+  },
+  {
+   "at": 75.655,
+   "seconds": 0.71,
+   "where": "after c3b7",
+   "reason": [
+    "tail+0.8: picture fades out"
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "id": "c3b1",
+   "status": "definition",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 1.2,
+   "end": 14.51,
+   "holdEnd": 14.79,
+   "text": "Richard Hamilton's idea was to give M a shape, and let the shape improve itself. A metric, called g, measures lengths on M. From it one computes curvature. R, the scalar curvature, is one number at every point.",
+   "words": [
+    {
+     "word": "Richard",
+     "start": 1.2,
+     "end": 1.66
+    },
+    {
+     "word": "Hamilton's",
+     "start": 1.66,
+     "end": 2.2
+    },
+    {
+     "word": "idea",
+     "start": 2.2,
+     "end": 2.56
+    },
+    {
+     "word": "was",
+     "start": 2.56,
+     "end": 2.94
+    },
+    {
+     "word": "to",
+     "start": 2.94,
+     "end": 3.14
+    },
+    {
+     "word": "give",
+     "start": 3.14,
+     "end": 3.32
+    },
+    {
+     "word": "M",
+     "start": 3.32,
+     "end": 3.58
+    },
+    {
+     "word": "a",
+     "start": 3.58,
+     "end": 3.96
+    },
+    {
+     "word": "shape,",
+     "start": 3.96,
+     "end": 4.1
+    },
+    {
+     "word": "and",
+     "start": 4.1,
+     "end": 4.62
+    },
+    {
+     "word": "let",
+     "start": 4.62,
+     "end": 4.76
+    },
+    {
+     "word": "the",
+     "start": 4.76,
+     "end": 4.96
+    },
+    {
+     "word": "shape",
+     "start": 4.96,
+     "end": 5.14
+    },
+    {
+     "word": "improve",
+     "start": 5.14,
+     "end": 5.54
+    },
+    {
+     "word": "itself.",
+     "start": 5.54,
+     "end": 5.96
+    },
+    {
+     "word": "A",
+     "start": 6.12,
+     "end": 6.72
+    },
+    {
+     "word": "metric,",
+     "start": 6.72,
+     "end": 6.98
+    },
+    {
+     "word": "called",
+     "start": 7.22,
+     "end": 7.36
+    },
+    {
+     "word": "g,",
+     "start": 7.36,
+     "end": 7.6
+    },
+    {
+     "word": "measures",
+     "start": 8.04,
+     "end": 8.04
+    },
+    {
+     "word": "lengths",
+     "start": 8.04,
+     "end": 8.4
+    },
+    {
+     "word": "on",
+     "start": 8.4,
+     "end": 8.64
+    },
+    {
+     "word": "M.",
+     "start": 8.64,
+     "end": 8.86
+    },
+    {
+     "word": "From",
+     "start": 9.38,
+     "end": 9.46
+    },
+    {
+     "word": "it",
+     "start": 9.46,
+     "end": 9.62
+    },
+    {
+     "word": "one",
+     "start": 9.62,
+     "end": 9.82
+    },
+    {
+     "word": "computes",
+     "start": 9.82,
+     "end": 10.18
+    },
+    {
+     "word": "curvature.",
+     "start": 10.18,
+     "end": 10.52
+    },
+    {
+     "word": "R,",
+     "start": 11.16,
+     "end": 11.44
+    },
+    {
+     "word": "the",
+     "start": 11.62,
+     "end": 11.92
+    },
+    {
+     "word": "scalar",
+     "start": 11.92,
+     "end": 12.16
+    },
+    {
+     "word": "curvature,",
+     "start": 12.16,
+     "end": 12.48
+    },
+    {
+     "word": "is",
+     "start": 12.9,
+     "end": 13.14
+    },
+    {
+     "word": "one",
+     "start": 13.14,
+     "end": 13.42
+    },
+    {
+     "word": "number",
+     "start": 13.42,
+     "end": 13.66
+    },
+    {
+     "word": "at",
+     "start": 13.66,
+     "end": 13.9
+    },
+    {
+     "word": "every",
+     "start": 13.9,
+     "end": 14.22
+    },
+    {
+     "word": "point.",
+     "start": 14.22,
+     "end": 14.51
+    }
+   ]
+  },
+  {
+   "id": "c3b2",
+   "status": "definition",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 14.79,
+   "end": 25.74,
+   "holdEnd": 26.04,
+   "text": "In nineteen eighty-two, Hamilton introduced the Ricci flow. The metric changes with time, t. Its rate of change is minus two times the Ricci curvature, a curvature that depends on direction.",
+   "words": [
+    {
+     "word": "In",
+     "start": 15.07,
+     "end": 15.26
+    },
+    {
+     "word": "nineteen",
+     "start": 15.26,
+     "end": 15.677
+    },
+    {
+     "word": "eighty-two,",
+     "start": 15.677,
+     "end": 16.14
+    },
+    {
+     "word": "Hamilton",
+     "start": 16.86,
+     "end": 16.86
+    },
+    {
+     "word": "introduced",
+     "start": 16.86,
+     "end": 17.38
+    },
+    {
+     "word": "the",
+     "start": 17.38,
+     "end": 17.8
+    },
+    {
+     "word": "Ricci",
+     "start": 17.8,
+     "end": 17.8
+    },
+    {
+     "word": "flow.",
+     "start": 17.8,
+     "end": 18.1
+    },
+    {
+     "word": "The",
+     "start": 18.56,
+     "end": 18.76
+    },
+    {
+     "word": "metric",
+     "start": 18.76,
+     "end": 19.02
+    },
+    {
+     "word": "changes",
+     "start": 19.02,
+     "end": 19.42
+    },
+    {
+     "word": "with",
+     "start": 19.42,
+     "end": 19.72
+    },
+    {
+     "word": "time,",
+     "start": 19.72,
+     "end": 20.04
+    },
+    {
+     "word": "t.",
+     "start": 20.04,
+     "end": 20.26
+    },
+    {
+     "word": "Its",
+     "start": 20.76,
+     "end": 20.98
+    },
+    {
+     "word": "rate",
+     "start": 20.98,
+     "end": 21.14
+    },
+    {
+     "word": "of",
+     "start": 21.14,
+     "end": 21.46
+    },
+    {
+     "word": "change",
+     "start": 21.46,
+     "end": 21.58
+    },
+    {
+     "word": "is",
+     "start": 21.58,
+     "end": 21.84
+    },
+    {
+     "word": "minus",
+     "start": 21.84,
+     "end": 22.16
+    },
+    {
+     "word": "two",
+     "start": 22.16,
+     "end": 22.46
+    },
+    {
+     "word": "times",
+     "start": 22.46,
+     "end": 22.78
+    },
+    {
+     "word": "the",
+     "start": 22.78,
+     "end": 23.06
+    },
+    {
+     "word": "Ricci",
+     "start": 23.06,
+     "end": 23.24
+    },
+    {
+     "word": "curvature,",
+     "start": 23.24,
+     "end": 23.58
+    },
+    {
+     "word": "a",
+     "start": 24.14,
+     "end": 24.48
+    },
+    {
+     "word": "curvature",
+     "start": 24.48,
+     "end": 24.5
+    },
+    {
+     "word": "that",
+     "start": 24.5,
+     "end": 24.86
+    },
+    {
+     "word": "depends",
+     "start": 24.86,
+     "end": 25.12
+    },
+    {
+     "word": "on",
+     "start": 25.12,
+     "end": 25.36
+    },
+    {
+     "word": "direction.",
+     "start": 25.36,
+     "end": 25.74
+    }
+   ]
+  },
+  {
+   "id": "c3b3",
+   "status": "heuristic",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 26.04,
+   "end": 30.19,
+   "holdEnd": 30.79,
+   "text": "Like heat spreading through a metal plate, the flow tends to even out the curvature.",
+   "words": [
+    {
+     "word": "Like",
+     "start": 26.34,
+     "end": 26.5
+    },
+    {
+     "word": "heat",
+     "start": 26.5,
+     "end": 26.84
+    },
+    {
+     "word": "spreading",
+     "start": 26.84,
+     "end": 27.14
+    },
+    {
+     "word": "through",
+     "start": 27.14,
+     "end": 27.38
+    },
+    {
+     "word": "a",
+     "start": 27.38,
+     "end": 27.6
+    },
+    {
+     "word": "metal",
+     "start": 27.6,
+     "end": 27.68
+    },
+    {
+     "word": "plate,",
+     "start": 27.68,
+     "end": 28.0
+    },
+    {
+     "word": "the",
+     "start": 28.42,
+     "end": 28.56
+    },
+    {
+     "word": "flow",
+     "start": 28.56,
+     "end": 28.74
+    },
+    {
+     "word": "tends",
+     "start": 28.74,
+     "end": 29.0
+    },
+    {
+     "word": "to",
+     "start": 29.0,
+     "end": 29.34
+    },
+    {
+     "word": "even",
+     "start": 29.34,
+     "end": 29.42
+    },
+    {
+     "word": "out",
+     "start": 29.42,
+     "end": 29.62
+    },
+    {
+     "word": "the",
+     "start": 29.62,
+     "end": 29.86
+    },
+    {
+     "word": "curvature.",
+     "start": 29.86,
+     "end": 30.19
+    }
+   ]
+  },
+  {
+   "id": "c3b4",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "2.1",
+   "start": 30.79,
+   "end": 38.95,
+   "holdEnd": 39.35,
+   "text": "A round sphere stays round and shrinks. Its radius squared drops by four in every unit of time, until the sphere vanishes.",
+   "words": [
+    {
+     "word": "A",
+     "start": 30.79,
+     "end": 30.85
+    },
+    {
+     "word": "round",
+     "start": 30.85,
+     "end": 31.41
+    },
+    {
+     "word": "sphere",
+     "start": 31.41,
+     "end": 31.73
+    },
+    {
+     "word": "stays",
+     "start": 31.73,
+     "end": 32.17
+    },
+    {
+     "word": "round",
+     "start": 32.17,
+     "end": 32.61
+    },
+    {
+     "word": "and",
+     "start": 32.61,
+     "end": 33.31
+    },
+    {
+     "word": "shrinks.",
+     "start": 33.31,
+     "end": 33.31
+    },
+    {
+     "word": "Its",
+     "start": 34.03,
+     "end": 34.03
+    },
+    {
+     "word": "radius",
+     "start": 34.03,
+     "end": 34.41
+    },
+    {
+     "word": "squared",
+     "start": 34.41,
+     "end": 34.87
+    },
+    {
+     "word": "drops",
+     "start": 34.87,
+     "end": 35.19
+    },
+    {
+     "word": "by",
+     "start": 35.19,
+     "end": 35.51
+    },
+    {
+     "word": "four",
+     "start": 35.51,
+     "end": 35.81
+    },
+    {
+     "word": "in",
+     "start": 35.81,
+     "end": 36.05
+    },
+    {
+     "word": "every",
+     "start": 36.05,
+     "end": 36.35
+    },
+    {
+     "word": "unit",
+     "start": 36.35,
+     "end": 36.59
+    },
+    {
+     "word": "of",
+     "start": 36.59,
+     "end": 37.17
+    },
+    {
+     "word": "time,",
+     "start": 37.17,
+     "end": 37.17
+    },
+    {
+     "word": "until",
+     "start": 37.17,
+     "end": 37.77
+    },
+    {
+     "word": "the",
+     "start": 37.77,
+     "end": 38.31
+    },
+    {
+     "word": "sphere",
+     "start": 38.31,
+     "end": 38.31
+    },
+    {
+     "word": "vanishes.",
+     "start": 38.31,
+     "end": 38.95
+    }
+   ]
+  },
+  {
+   "id": "c3b5",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "2.1",
+   "start": 39.35,
+   "end": 51.915,
+   "holdEnd": 52.215,
+   "text": "Hamilton proved that if the Ricci curvature is positive everywhere, the rescaled flow makes M round in the limit. Then M is the three-sphere, or a quotient of it by a finite group of rotations.",
+   "words": [
+    {
+     "word": "Hamilton",
+     "start": 39.635,
+     "end": 40.045
+    },
+    {
+     "word": "proved",
+     "start": 40.045,
+     "end": 40.525
+    },
+    {
+     "word": "that",
+     "start": 40.525,
+     "end": 40.765
+    },
+    {
+     "word": "if",
+     "start": 40.765,
+     "end": 40.865
+    },
+    {
+     "word": "the",
+     "start": 40.865,
+     "end": 41.305
+    },
+    {
+     "word": "Ricci",
+     "start": 41.305,
+     "end": 41.325
+    },
+    {
+     "word": "curvature",
+     "start": 41.325,
+     "end": 41.645
+    },
+    {
+     "word": "is",
+     "start": 41.645,
+     "end": 42.025
+    },
+    {
+     "word": "positive",
+     "start": 42.025,
+     "end": 42.445
+    },
+    {
+     "word": "everywhere,",
+     "start": 42.445,
+     "end": 42.985
+    },
+    {
+     "word": "the",
+     "start": 43.865,
+     "end": 43.965
+    },
+    {
+     "word": "rescaled",
+     "start": 43.965,
+     "end": 44.485
+    },
+    {
+     "word": "flow",
+     "start": 44.485,
+     "end": 44.825
+    },
+    {
+     "word": "makes",
+     "start": 44.825,
+     "end": 45.185
+    },
+    {
+     "word": "M",
+     "start": 45.185,
+     "end": 45.405
+    },
+    {
+     "word": "round",
+     "start": 45.405,
+     "end": 45.825
+    },
+    {
+     "word": "in",
+     "start": 45.825,
+     "end": 46.025
+    },
+    {
+     "word": "the",
+     "start": 46.025,
+     "end": 46.305
+    },
+    {
+     "word": "limit.",
+     "start": 46.305,
+     "end": 46.405
+    },
+    {
+     "word": "Then",
+     "start": 47.225,
+     "end": 47.485
+    },
+    {
+     "word": "M",
+     "start": 47.485,
+     "end": 47.825
+    },
+    {
+     "word": "is",
+     "start": 47.825,
+     "end": 48.025
+    },
+    {
+     "word": "the",
+     "start": 48.025,
+     "end": 48.245
+    },
+    {
+     "word": "three-sphere,",
+     "start": 48.245,
+     "end": 48.725
+    },
+    {
+     "word": "or",
+     "start": 49.265,
+     "end": 49.545
+    },
+    {
+     "word": "a",
+     "start": 49.545,
+     "end": 49.805
+    },
+    {
+     "word": "quotient",
+     "start": 49.805,
+     "end": 49.885
+    },
+    {
+     "word": "of",
+     "start": 49.885,
+     "end": 50.165
+    },
+    {
+     "word": "it",
+     "start": 50.165,
+     "end": 50.225
+    },
+    {
+     "word": "by",
+     "start": 50.225,
+     "end": 50.405
+    },
+    {
+     "word": "a",
+     "start": 50.405,
+     "end": 50.865
+    },
+    {
+     "word": "finite",
+     "start": 50.865,
+     "end": 50.865
+    },
+    {
+     "word": "group",
+     "start": 50.865,
+     "end": 51.105
+    },
+    {
+     "word": "of",
+     "start": 51.105,
+     "end": 51.845
+    },
+    {
+     "word": "rotations.",
+     "start": 51.845,
+     "end": 51.915
+    }
+   ]
+  },
+  {
+   "id": "c3b6",
+   "status": "heuristic",
+   "hold": "short",
+   "paragraph": "2.2",
+   "start": 52.215,
+   "end": 65.385,
+   "holdEnd": 65.72,
+   "text": "In general, the flow can run into singularities. Here a thin neck pinches, while the ends are still large. Each circle around this shape stands for a whole two-sphere, so the picture shows a three-dimensional space.",
+   "words": [
+    {
+     "word": "In",
+     "start": 52.515,
+     "end": 52.725
+    },
+    {
+     "word": "general,",
+     "start": 52.725,
+     "end": 53.065
+    },
+    {
+     "word": "the",
+     "start": 53.425,
+     "end": 53.665
+    },
+    {
+     "word": "flow",
+     "start": 53.665,
+     "end": 53.765
+    },
+    {
+     "word": "can",
+     "start": 53.765,
+     "end": 54.045
+    },
+    {
+     "word": "run",
+     "start": 54.045,
+     "end": 54.205
+    },
+    {
+     "word": "into",
+     "start": 54.205,
+     "end": 54.445
+    },
+    {
+     "word": "singularities.",
+     "start": 54.445,
+     "end": 55.145
+    },
+    {
+     "word": "Here",
+     "start": 56.045,
+     "end": 56.245
+    },
+    {
+     "word": "a",
+     "start": 56.305,
+     "end": 56.505
+    },
+    {
+     "word": "thin",
+     "start": 56.505,
+     "end": 56.705
+    },
+    {
+     "word": "neck",
+     "start": 56.705,
+     "end": 56.925
+    },
+    {
+     "word": "pinches,",
+     "start": 56.925,
+     "end": 57.345
+    },
+    {
+     "word": "while",
+     "start": 57.345,
+     "end": 57.865
+    },
+    {
+     "word": "the",
+     "start": 57.865,
+     "end": 58.265
+    },
+    {
+     "word": "ends",
+     "start": 58.265,
+     "end": 58.265
+    },
+    {
+     "word": "are",
+     "start": 58.265,
+     "end": 58.505
+    },
+    {
+     "word": "still",
+     "start": 58.505,
+     "end": 58.765
+    },
+    {
+     "word": "large.",
+     "start": 58.765,
+     "end": 59.105
+    },
+    {
+     "word": "Each",
+     "start": 59.745,
+     "end": 60.005
+    },
+    {
+     "word": "circle",
+     "start": 60.005,
+     "end": 60.345
+    },
+    {
+     "word": "around",
+     "start": 60.345,
+     "end": 60.625
+    },
+    {
+     "word": "this",
+     "start": 60.625,
+     "end": 60.905
+    },
+    {
+     "word": "shape",
+     "start": 60.905,
+     "end": 61.165
+    },
+    {
+     "word": "stands",
+     "start": 61.165,
+     "end": 61.505
+    },
+    {
+     "word": "for",
+     "start": 61.505,
+     "end": 61.725
+    },
+    {
+     "word": "a",
+     "start": 61.725,
+     "end": 61.845
+    },
+    {
+     "word": "whole",
+     "start": 61.845,
+     "end": 62.125
+    },
+    {
+     "word": "two-sphere,",
+     "start": 62.125,
+     "end": 62.585
+    },
+    {
+     "word": "so",
+     "start": 63.285,
+     "end": 63.385
+    },
+    {
+     "word": "the",
+     "start": 63.385,
+     "end": 63.585
+    },
+    {
+     "word": "picture",
+     "start": 63.585,
+     "end": 63.805
+    },
+    {
+     "word": "shows",
+     "start": 63.805,
+     "end": 64.105
+    },
+    {
+     "word": "a",
+     "start": 64.105,
+     "end": 64.265
+    },
+    {
+     "word": "three-dimensional",
+     "start": 64.265,
+     "end": 64.845
+    },
+    {
+     "word": "space.",
+     "start": 64.845,
+     "end": 65.385
+    }
+   ]
+  },
+  {
+   "id": "c3b7",
+   "status": "context",
+   "hold": "short",
+   "paragraph": "2.2",
+   "start": 65.72,
+   "end": 75.565,
+   "holdEnd": 76.365,
+   "text": "Hamilton's plan was surgery: cut the neck, cap the ends, and continue the flow. To make it work, one had to know every shape a singularity can take.",
+   "words": [
+    {
+     "word": "Hamilton's",
+     "start": 66.055,
+     "end": 66.645
+    },
+    {
+     "word": "plan",
+     "start": 66.645,
+     "end": 66.865
+    },
+    {
+     "word": "was",
+     "start": 66.865,
+     "end": 67.125
+    },
+    {
+     "word": "surgery:",
+     "start": 67.125,
+     "end": 67.505
+    },
+    {
+     "word": "cut",
+     "start": 68.245,
+     "end": 68.245
+    },
+    {
+     "word": "the",
+     "start": 68.245,
+     "end": 68.625
+    },
+    {
+     "word": "neck,",
+     "start": 68.625,
+     "end": 68.625
+    },
+    {
+     "word": "cap",
+     "start": 69.285,
+     "end": 69.285
+    },
+    {
+     "word": "the",
+     "start": 69.285,
+     "end": 69.745
+    },
+    {
+     "word": "ends,",
+     "start": 69.745,
+     "end": 69.745
+    },
+    {
+     "word": "and",
+     "start": 70.125,
+     "end": 70.285
+    },
+    {
+     "word": "continue",
+     "start": 70.285,
+     "end": 70.625
+    },
+    {
+     "word": "the",
+     "start": 70.625,
+     "end": 70.925
+    },
+    {
+     "word": "flow.",
+     "start": 70.925,
+     "end": 71.065
+    },
+    {
+     "word": "To",
+     "start": 71.865,
+     "end": 72.005
+    },
+    {
+     "word": "make",
+     "start": 72.005,
+     "end": 72.165
+    },
+    {
+     "word": "it",
+     "start": 72.165,
+     "end": 72.345
+    },
+    {
+     "word": "work,",
+     "start": 72.345,
+     "end": 72.545
+    },
+    {
+     "word": "one",
+     "start": 72.985,
+     "end": 73.185
+    },
+    {
+     "word": "had",
+     "start": 73.185,
+     "end": 73.345
+    },
+    {
+     "word": "to",
+     "start": 73.345,
+     "end": 73.565
+    },
+    {
+     "word": "know",
+     "start": 73.565,
+     "end": 73.645
+    },
+    {
+     "word": "every",
+     "start": 73.645,
+     "end": 74.085
+    },
+    {
+     "word": "shape",
+     "start": 74.085,
+     "end": 74.305
+    },
+    {
+     "word": "a",
+     "start": 74.305,
+     "end": 74.525
+    },
+    {
+     "word": "singularity",
+     "start": 74.525,
+     "end": 75.065
+    },
+    {
+     "word": "can",
+     "start": 75.065,
+     "end": 75.265
+    },
+    {
+     "word": "take.",
+     "start": 75.265,
+     "end": 75.565
+    }
+   ]
+  }
+ ]
+}

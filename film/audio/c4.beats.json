@@ -1,0 +1,1140 @@
+{
+ "chapter": "c4",
+ "voice": "marin",
+ "model": "gpt-4o-mini-tts",
+ "speed": null,
+ "audio": "c4.wav",
+ "duration": 79.17,
+ "inserted": [
+  {
+   "at": 0.0,
+   "seconds": 1.2,
+   "where": "chapter start",
+   "reason": [
+    "chapter title settles"
+   ]
+  },
+  {
+   "at": 78.5,
+   "seconds": 0.67,
+   "where": "after c4b6",
+   "reason": [
+    "tail+0.8: picture fades out"
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "id": "c4b1",
+   "status": "context",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 1.2,
+   "end": 12.01,
+   "holdEnd": 12.325,
+   "text": "Here is the plan of the proof, as a map. Five steps lead to a statement about the flow. Four more turn it into topology. The first box, Ricci flow, we have just seen.",
+   "words": [
+    {
+     "word": "Here",
+     "start": 1.2,
+     "end": 1.5
+    },
+    {
+     "word": "is",
+     "start": 1.5,
+     "end": 1.72
+    },
+    {
+     "word": "the",
+     "start": 1.72,
+     "end": 1.9
+    },
+    {
+     "word": "plan",
+     "start": 1.9,
+     "end": 2.12
+    },
+    {
+     "word": "of",
+     "start": 2.12,
+     "end": 2.24
+    },
+    {
+     "word": "the",
+     "start": 2.24,
+     "end": 2.4
+    },
+    {
+     "word": "proof,",
+     "start": 2.4,
+     "end": 2.64
+    },
+    {
+     "word": "as",
+     "start": 3.04,
+     "end": 3.22
+    },
+    {
+     "word": "a",
+     "start": 3.22,
+     "end": 3.58
+    },
+    {
+     "word": "map.",
+     "start": 3.58,
+     "end": 3.58
+    },
+    {
+     "word": "Five",
+     "start": 4.34,
+     "end": 4.42
+    },
+    {
+     "word": "steps",
+     "start": 4.42,
+     "end": 4.72
+    },
+    {
+     "word": "lead",
+     "start": 4.72,
+     "end": 5.06
+    },
+    {
+     "word": "to",
+     "start": 5.06,
+     "end": 5.2
+    },
+    {
+     "word": "a",
+     "start": 5.2,
+     "end": 5.62
+    },
+    {
+     "word": "statement",
+     "start": 5.62,
+     "end": 5.62
+    },
+    {
+     "word": "about",
+     "start": 5.62,
+     "end": 5.9
+    },
+    {
+     "word": "the",
+     "start": 5.9,
+     "end": 6.26
+    },
+    {
+     "word": "flow.",
+     "start": 6.26,
+     "end": 6.26
+    },
+    {
+     "word": "Four",
+     "start": 7.04,
+     "end": 7.08
+    },
+    {
+     "word": "more",
+     "start": 7.08,
+     "end": 7.42
+    },
+    {
+     "word": "turn",
+     "start": 7.42,
+     "end": 7.66
+    },
+    {
+     "word": "it",
+     "start": 7.66,
+     "end": 7.84
+    },
+    {
+     "word": "into",
+     "start": 7.84,
+     "end": 7.96
+    },
+    {
+     "word": "topology.",
+     "start": 7.96,
+     "end": 8.48
+    },
+    {
+     "word": "The",
+     "start": 8.86,
+     "end": 9.36
+    },
+    {
+     "word": "first",
+     "start": 9.36,
+     "end": 9.64
+    },
+    {
+     "word": "box,",
+     "start": 9.64,
+     "end": 10.0
+    },
+    {
+     "word": "Ricci",
+     "start": 10.56,
+     "end": 10.56
+    },
+    {
+     "word": "flow,",
+     "start": 10.56,
+     "end": 10.82
+    },
+    {
+     "word": "we",
+     "start": 11.12,
+     "end": 11.32
+    },
+    {
+     "word": "have",
+     "start": 11.32,
+     "end": 11.48
+    },
+    {
+     "word": "just",
+     "start": 11.48,
+     "end": 11.74
+    },
+    {
+     "word": "seen.",
+     "start": 11.74,
+     "end": 12.01
+    }
+   ]
+  },
+  {
+   "id": "c4b2",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 12.325,
+   "end": 27.71,
+   "holdEnd": 27.96,
+   "text": "In two thousand two and two thousand three, Grisha Perelman posted three papers. The first gives a kind of entropy, a quantity that never decreases along the flow. For this, a companion function must evolve backwards in time, by a heat equation.",
+   "words": [
+    {
+     "word": "In",
+     "start": 12.64,
+     "end": 12.82
+    },
+    {
+     "word": "two",
+     "start": 12.82,
+     "end": 12.98
+    },
+    {
+     "word": "thousand",
+     "start": 12.98,
+     "end": 13.34
+    },
+    {
+     "word": "two",
+     "start": 13.34,
+     "end": 13.5
+    },
+    {
+     "word": "and",
+     "start": 13.5,
+     "end": 13.78
+    },
+    {
+     "word": "two",
+     "start": 13.78,
+     "end": 13.94
+    },
+    {
+     "word": "thousand",
+     "start": 13.94,
+     "end": 14.3
+    },
+    {
+     "word": "three,",
+     "start": 14.3,
+     "end": 14.54
+    },
+    {
+     "word": "Grisha",
+     "start": 15.12,
+     "end": 15.34
+    },
+    {
+     "word": "Perelman",
+     "start": 15.34,
+     "end": 15.72
+    },
+    {
+     "word": "posted",
+     "start": 15.72,
+     "end": 16.16
+    },
+    {
+     "word": "three",
+     "start": 16.16,
+     "end": 16.54
+    },
+    {
+     "word": "papers.",
+     "start": 16.54,
+     "end": 16.88
+    },
+    {
+     "word": "The",
+     "start": 17.54,
+     "end": 17.78
+    },
+    {
+     "word": "first",
+     "start": 17.78,
+     "end": 18.08
+    },
+    {
+     "word": "gives",
+     "start": 18.08,
+     "end": 18.3
+    },
+    {
+     "word": "a",
+     "start": 18.3,
+     "end": 18.46
+    },
+    {
+     "word": "kind",
+     "start": 18.46,
+     "end": 18.66
+    },
+    {
+     "word": "of",
+     "start": 18.66,
+     "end": 19.16
+    },
+    {
+     "word": "entropy,",
+     "start": 19.16,
+     "end": 19.16
+    },
+    {
+     "word": "a",
+     "start": 19.62,
+     "end": 20.12
+    },
+    {
+     "word": "quantity",
+     "start": 20.12,
+     "end": 20.12
+    },
+    {
+     "word": "that",
+     "start": 20.12,
+     "end": 20.5
+    },
+    {
+     "word": "never",
+     "start": 20.5,
+     "end": 20.76
+    },
+    {
+     "word": "decreases",
+     "start": 20.76,
+     "end": 21.26
+    },
+    {
+     "word": "along",
+     "start": 21.26,
+     "end": 21.62
+    },
+    {
+     "word": "the",
+     "start": 21.62,
+     "end": 22.04
+    },
+    {
+     "word": "flow.",
+     "start": 22.04,
+     "end": 22.04
+    },
+    {
+     "word": "For",
+     "start": 22.72,
+     "end": 22.86
+    },
+    {
+     "word": "this,",
+     "start": 22.86,
+     "end": 23.18
+    },
+    {
+     "word": "a",
+     "start": 23.56,
+     "end": 23.8
+    },
+    {
+     "word": "companion",
+     "start": 23.8,
+     "end": 24.18
+    },
+    {
+     "word": "function",
+     "start": 24.18,
+     "end": 24.6
+    },
+    {
+     "word": "must",
+     "start": 24.6,
+     "end": 24.94
+    },
+    {
+     "word": "evolve",
+     "start": 24.94,
+     "end": 25.3
+    },
+    {
+     "word": "backwards",
+     "start": 25.3,
+     "end": 25.7
+    },
+    {
+     "word": "in",
+     "start": 25.7,
+     "end": 26.0
+    },
+    {
+     "word": "time,",
+     "start": 26.0,
+     "end": 26.28
+    },
+    {
+     "word": "by",
+     "start": 26.28,
+     "end": 26.82
+    },
+    {
+     "word": "a",
+     "start": 26.82,
+     "end": 27.08
+    },
+    {
+     "word": "heat",
+     "start": 27.08,
+     "end": 27.24
+    },
+    {
+     "word": "equation.",
+     "start": 27.24,
+     "end": 27.71
+    }
+   ]
+  },
+  {
+   "id": "c4b3",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 27.96,
+   "end": 39.85,
+   "holdEnd": 39.95,
+   "text": "From it, Perelman proved no local collapsing. Where the curvature is controlled at some scale, a ball of that size keeps a definite share of its volume. That share is called kappa.",
+   "words": [
+    {
+     "word": "From",
+     "start": 28.21,
+     "end": 28.4
+    },
+    {
+     "word": "it,",
+     "start": 28.4,
+     "end": 28.74
+    },
+    {
+     "word": "Perelman",
+     "start": 29.28,
+     "end": 29.44
+    },
+    {
+     "word": "proved",
+     "start": 29.44,
+     "end": 29.82
+    },
+    {
+     "word": "no",
+     "start": 29.82,
+     "end": 30.34
+    },
+    {
+     "word": "local",
+     "start": 30.34,
+     "end": 30.68
+    },
+    {
+     "word": "collapsing.",
+     "start": 30.68,
+     "end": 31.06
+    },
+    {
+     "word": "Where",
+     "start": 31.86,
+     "end": 31.94
+    },
+    {
+     "word": "the",
+     "start": 31.94,
+     "end": 32.34
+    },
+    {
+     "word": "curvature",
+     "start": 32.34,
+     "end": 32.44
+    },
+    {
+     "word": "is",
+     "start": 32.44,
+     "end": 32.82
+    },
+    {
+     "word": "controlled",
+     "start": 32.82,
+     "end": 33.1
+    },
+    {
+     "word": "at",
+     "start": 33.1,
+     "end": 33.38
+    },
+    {
+     "word": "some",
+     "start": 33.38,
+     "end": 33.66
+    },
+    {
+     "word": "scale,",
+     "start": 33.66,
+     "end": 33.92
+    },
+    {
+     "word": "a",
+     "start": 34.4,
+     "end": 34.7
+    },
+    {
+     "word": "ball",
+     "start": 34.7,
+     "end": 34.72
+    },
+    {
+     "word": "of",
+     "start": 34.72,
+     "end": 34.94
+    },
+    {
+     "word": "that",
+     "start": 34.94,
+     "end": 35.14
+    },
+    {
+     "word": "size",
+     "start": 35.14,
+     "end": 35.46
+    },
+    {
+     "word": "keeps",
+     "start": 35.46,
+     "end": 35.76
+    },
+    {
+     "word": "a",
+     "start": 35.76,
+     "end": 36.04
+    },
+    {
+     "word": "definite",
+     "start": 36.04,
+     "end": 36.34
+    },
+    {
+     "word": "share",
+     "start": 36.34,
+     "end": 36.66
+    },
+    {
+     "word": "of",
+     "start": 36.66,
+     "end": 36.88
+    },
+    {
+     "word": "its",
+     "start": 36.88,
+     "end": 37.08
+    },
+    {
+     "word": "volume.",
+     "start": 37.08,
+     "end": 37.38
+    },
+    {
+     "word": "That",
+     "start": 37.96,
+     "end": 38.32
+    },
+    {
+     "word": "share",
+     "start": 38.32,
+     "end": 38.56
+    },
+    {
+     "word": "is",
+     "start": 38.56,
+     "end": 38.84
+    },
+    {
+     "word": "called",
+     "start": 38.84,
+     "end": 39.34
+    },
+    {
+     "word": "kappa.",
+     "start": 39.34,
+     "end": 39.85
+    }
+   ]
+  },
+  {
+   "id": "c4b4",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "2.1",
+   "start": 39.95,
+   "end": 54.46,
+   "holdEnd": 54.895,
+   "text": "Near a singularity, one can zoom in and get a limit. The limits exist for all past time, and Perelman calls them kappa solutions. For a fixed kappa, after rescaling, they form a compact family.",
+   "words": [
+    {
+     "word": "Near",
+     "start": 39.95,
+     "end": 40.33
+    },
+    {
+     "word": "a",
+     "start": 40.33,
+     "end": 40.73
+    },
+    {
+     "word": "singularity,",
+     "start": 40.73,
+     "end": 41.29
+    },
+    {
+     "word": "one",
+     "start": 41.75,
+     "end": 42.01
+    },
+    {
+     "word": "can",
+     "start": 42.01,
+     "end": 42.33
+    },
+    {
+     "word": "zoom",
+     "start": 42.33,
+     "end": 42.51
+    },
+    {
+     "word": "in",
+     "start": 42.51,
+     "end": 42.81
+    },
+    {
+     "word": "and",
+     "start": 42.81,
+     "end": 43.11
+    },
+    {
+     "word": "get",
+     "start": 43.11,
+     "end": 43.27
+    },
+    {
+     "word": "a",
+     "start": 43.27,
+     "end": 43.69
+    },
+    {
+     "word": "limit.",
+     "start": 43.69,
+     "end": 43.69
+    },
+    {
+     "word": "The",
+     "start": 44.49,
+     "end": 44.73
+    },
+    {
+     "word": "limits",
+     "start": 44.73,
+     "end": 44.89
+    },
+    {
+     "word": "exist",
+     "start": 44.89,
+     "end": 45.29
+    },
+    {
+     "word": "for",
+     "start": 45.29,
+     "end": 45.61
+    },
+    {
+     "word": "all",
+     "start": 45.61,
+     "end": 45.85
+    },
+    {
+     "word": "past",
+     "start": 45.85,
+     "end": 46.17
+    },
+    {
+     "word": "time,",
+     "start": 46.17,
+     "end": 46.53
+    },
+    {
+     "word": "and",
+     "start": 46.73,
+     "end": 47.37
+    },
+    {
+     "word": "Perelman",
+     "start": 47.37,
+     "end": 47.53
+    },
+    {
+     "word": "calls",
+     "start": 47.53,
+     "end": 47.89
+    },
+    {
+     "word": "them",
+     "start": 47.89,
+     "end": 48.43
+    },
+    {
+     "word": "kappa",
+     "start": 48.43,
+     "end": 48.77
+    },
+    {
+     "word": "solutions.",
+     "start": 48.77,
+     "end": 49.27
+    },
+    {
+     "word": "For",
+     "start": 50.37,
+     "end": 50.57
+    },
+    {
+     "word": "a",
+     "start": 50.57,
+     "end": 51.01
+    },
+    {
+     "word": "fixed",
+     "start": 51.01,
+     "end": 51.01
+    },
+    {
+     "word": "kappa,",
+     "start": 51.01,
+     "end": 51.21
+    },
+    {
+     "word": "after",
+     "start": 51.81,
+     "end": 52.05
+    },
+    {
+     "word": "rescaling,",
+     "start": 52.05,
+     "end": 52.59
+    },
+    {
+     "word": "they",
+     "start": 53.05,
+     "end": 53.19
+    },
+    {
+     "word": "form",
+     "start": 53.19,
+     "end": 53.35
+    },
+    {
+     "word": "a",
+     "start": 53.35,
+     "end": 53.73
+    },
+    {
+     "word": "compact",
+     "start": 53.73,
+     "end": 53.99
+    },
+    {
+     "word": "family.",
+     "start": 53.99,
+     "end": 54.46
+    }
+   ]
+  },
+  {
+   "id": "c4b5",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "2.1",
+   "start": 54.895,
+   "end": 71.18,
+   "holdEnd": 71.61,
+   "text": "Every point of a kappa solution sits in one of a few shapes. A neck, almost a round cylinder. A cap, closing off a neck: a ball, or projective space with a ball removed. Or a whole closed piece of positive curvature, often close to round.",
+   "words": [
+    {
+     "word": "Every",
+     "start": 55.33,
+     "end": 55.63
+    },
+    {
+     "word": "point",
+     "start": 55.63,
+     "end": 55.87
+    },
+    {
+     "word": "of",
+     "start": 55.87,
+     "end": 56.03
+    },
+    {
+     "word": "a",
+     "start": 56.03,
+     "end": 56.35
+    },
+    {
+     "word": "kappa",
+     "start": 56.35,
+     "end": 56.35
+    },
+    {
+     "word": "solution",
+     "start": 56.35,
+     "end": 56.85
+    },
+    {
+     "word": "sits",
+     "start": 56.85,
+     "end": 57.45
+    },
+    {
+     "word": "in",
+     "start": 57.45,
+     "end": 57.61
+    },
+    {
+     "word": "one",
+     "start": 57.61,
+     "end": 57.77
+    },
+    {
+     "word": "of",
+     "start": 57.77,
+     "end": 57.87
+    },
+    {
+     "word": "a",
+     "start": 57.87,
+     "end": 58.23
+    },
+    {
+     "word": "few",
+     "start": 58.23,
+     "end": 58.23
+    },
+    {
+     "word": "shapes.",
+     "start": 58.23,
+     "end": 58.53
+    },
+    {
+     "word": "A",
+     "start": 59.27,
+     "end": 59.57
+    },
+    {
+     "word": "neck,",
+     "start": 59.57,
+     "end": 59.83
+    },
+    {
+     "word": "almost",
+     "start": 60.47,
+     "end": 60.71
+    },
+    {
+     "word": "a",
+     "start": 60.71,
+     "end": 60.95
+    },
+    {
+     "word": "round",
+     "start": 60.95,
+     "end": 61.15
+    },
+    {
+     "word": "cylinder.",
+     "start": 61.15,
+     "end": 61.51
+    },
+    {
+     "word": "A",
+     "start": 62.09,
+     "end": 62.37
+    },
+    {
+     "word": "cap,",
+     "start": 62.37,
+     "end": 62.65
+    },
+    {
+     "word": "closing",
+     "start": 63.27,
+     "end": 63.41
+    },
+    {
+     "word": "off",
+     "start": 63.41,
+     "end": 63.61
+    },
+    {
+     "word": "a",
+     "start": 63.61,
+     "end": 63.95
+    },
+    {
+     "word": "neck:",
+     "start": 63.95,
+     "end": 63.95
+    },
+    {
+     "word": "a",
+     "start": 64.29,
+     "end": 64.75
+    },
+    {
+     "word": "ball,",
+     "start": 64.75,
+     "end": 64.75
+    },
+    {
+     "word": "or",
+     "start": 64.87,
+     "end": 65.21
+    },
+    {
+     "word": "projective",
+     "start": 65.21,
+     "end": 65.71
+    },
+    {
+     "word": "space",
+     "start": 65.71,
+     "end": 65.93
+    },
+    {
+     "word": "with",
+     "start": 65.93,
+     "end": 66.11
+    },
+    {
+     "word": "a",
+     "start": 66.11,
+     "end": 66.43
+    },
+    {
+     "word": "ball",
+     "start": 66.43,
+     "end": 66.43
+    },
+    {
+     "word": "removed.",
+     "start": 66.43,
+     "end": 66.83
+    },
+    {
+     "word": "Or",
+     "start": 66.83,
+     "end": 67.49
+    },
+    {
+     "word": "a",
+     "start": 67.49,
+     "end": 67.71
+    },
+    {
+     "word": "whole",
+     "start": 67.71,
+     "end": 68.05
+    },
+    {
+     "word": "closed",
+     "start": 68.05,
+     "end": 68.39
+    },
+    {
+     "word": "piece",
+     "start": 68.39,
+     "end": 68.67
+    },
+    {
+     "word": "of",
+     "start": 68.67,
+     "end": 68.93
+    },
+    {
+     "word": "positive",
+     "start": 68.93,
+     "end": 69.27
+    },
+    {
+     "word": "curvature,",
+     "start": 69.27,
+     "end": 69.61
+    },
+    {
+     "word": "often",
+     "start": 70.29,
+     "end": 70.41
+    },
+    {
+     "word": "close",
+     "start": 70.41,
+     "end": 70.73
+    },
+    {
+     "word": "to",
+     "start": 70.73,
+     "end": 70.93
+    },
+    {
+     "word": "round.",
+     "start": 70.93,
+     "end": 71.18
+    }
+   ]
+  },
+  {
+   "id": "c4b6",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "2.1",
+   "start": 71.61,
+   "end": 78.37,
+   "holdEnd": 79.17,
+   "text": "This is the canonical neighbourhood theorem. Wherever the curvature is large, the flow looks like one of these shapes.",
+   "words": [
+    {
+     "word": "This",
+     "start": 72.04,
+     "end": 72.33
+    },
+    {
+     "word": "is",
+     "start": 72.33,
+     "end": 72.53
+    },
+    {
+     "word": "the",
+     "start": 72.53,
+     "end": 72.71
+    },
+    {
+     "word": "canonical",
+     "start": 72.71,
+     "end": 73.13
+    },
+    {
+     "word": "neighbourhood",
+     "start": 73.13,
+     "end": 73.57
+    },
+    {
+     "word": "theorem.",
+     "start": 73.57,
+     "end": 73.87
+    },
+    {
+     "word": "Wherever",
+     "start": 74.77,
+     "end": 74.87
+    },
+    {
+     "word": "the",
+     "start": 74.87,
+     "end": 75.35
+    },
+    {
+     "word": "curvature",
+     "start": 75.35,
+     "end": 75.35
+    },
+    {
+     "word": "is",
+     "start": 75.35,
+     "end": 75.69
+    },
+    {
+     "word": "large,",
+     "start": 75.69,
+     "end": 75.95
+    },
+    {
+     "word": "the",
+     "start": 76.43,
+     "end": 76.59
+    },
+    {
+     "word": "flow",
+     "start": 76.59,
+     "end": 76.81
+    },
+    {
+     "word": "looks",
+     "start": 76.81,
+     "end": 77.27
+    },
+    {
+     "word": "like",
+     "start": 77.27,
+     "end": 77.55
+    },
+    {
+     "word": "one",
+     "start": 77.55,
+     "end": 77.67
+    },
+    {
+     "word": "of",
+     "start": 77.67,
+     "end": 77.81
+    },
+    {
+     "word": "these",
+     "start": 77.81,
+     "end": 78.01
+    },
+    {
+     "word": "shapes.",
+     "start": 78.01,
+     "end": 78.37
+    }
+   ]
+  }
+ ]
+}

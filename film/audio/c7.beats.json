@@ -1,0 +1,452 @@
+{
+ "chapter": "c7",
+ "voice": "marin",
+ "model": "gpt-4o-mini-tts",
+ "speed": null,
+ "audio": "c7.wav",
+ "duration": 32.975,
+ "inserted": [
+  {
+   "at": 0.0,
+   "seconds": 1.2,
+   "where": "chapter start",
+   "reason": [
+    "chapter title settles"
+   ]
+  },
+  {
+   "at": 25.485,
+   "seconds": 0.095,
+   "where": "after c7b2",
+   "reason": [
+    "scrutiny+0.6: line: basis of the verdict"
+   ]
+  },
+  {
+   "at": 32.495,
+   "seconds": 0.48,
+   "where": "after c7b3",
+   "reason": [
+    "tail+0.8: picture fades out"
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "id": "c7b1",
+   "status": "context",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 1.2,
+   "end": 14.3,
+   "holdEnd": 14.535,
+   "text": "Perelman never published his papers in a journal. Instead, teams of mathematicians checked them in full. By two thousand six, Kleiner and Lott, Morgan and Tian, and Cao and Zhu had posted complete accounts.",
+   "words": [
+    {
+     "word": "Perelman",
+     "start": 1.2,
+     "end": 1.6
+    },
+    {
+     "word": "never",
+     "start": 1.6,
+     "end": 2.14
+    },
+    {
+     "word": "published",
+     "start": 2.14,
+     "end": 2.52
+    },
+    {
+     "word": "his",
+     "start": 2.52,
+     "end": 2.98
+    },
+    {
+     "word": "papers",
+     "start": 2.98,
+     "end": 2.98
+    },
+    {
+     "word": "in",
+     "start": 2.98,
+     "end": 3.14
+    },
+    {
+     "word": "a",
+     "start": 3.14,
+     "end": 3.54
+    },
+    {
+     "word": "journal.",
+     "start": 3.54,
+     "end": 3.54
+    },
+    {
+     "word": "Instead,",
+     "start": 4.54,
+     "end": 4.54
+    },
+    {
+     "word": "teams",
+     "start": 5.2,
+     "end": 5.24
+    },
+    {
+     "word": "of",
+     "start": 5.24,
+     "end": 5.58
+    },
+    {
+     "word": "mathematicians",
+     "start": 5.58,
+     "end": 6.16
+    },
+    {
+     "word": "checked",
+     "start": 6.16,
+     "end": 6.44
+    },
+    {
+     "word": "them",
+     "start": 6.44,
+     "end": 6.68
+    },
+    {
+     "word": "in",
+     "start": 6.68,
+     "end": 7.12
+    },
+    {
+     "word": "full.",
+     "start": 7.12,
+     "end": 7.22
+    },
+    {
+     "word": "By",
+     "start": 7.92,
+     "end": 7.92
+    },
+    {
+     "word": "two",
+     "start": 7.92,
+     "end": 8.127
+    },
+    {
+     "word": "thousand",
+     "start": 8.127,
+     "end": 8.593
+    },
+    {
+     "word": "six,",
+     "start": 8.593,
+     "end": 8.8
+    },
+    {
+     "word": "Kleiner",
+     "start": 9.44,
+     "end": 9.5
+    },
+    {
+     "word": "and",
+     "start": 9.5,
+     "end": 9.9
+    },
+    {
+     "word": "Lott,",
+     "start": 9.9,
+     "end": 9.96
+    },
+    {
+     "word": "Morgan",
+     "start": 10.42,
+     "end": 10.66
+    },
+    {
+     "word": "and",
+     "start": 10.66,
+     "end": 10.96
+    },
+    {
+     "word": "Tian,",
+     "start": 10.96,
+     "end": 11.16
+    },
+    {
+     "word": "and",
+     "start": 11.46,
+     "end": 11.96
+    },
+    {
+     "word": "Cao",
+     "start": 11.96,
+     "end": 11.98
+    },
+    {
+     "word": "and",
+     "start": 11.98,
+     "end": 12.46
+    },
+    {
+     "word": "Zhu",
+     "start": 12.46,
+     "end": 12.46
+    },
+    {
+     "word": "had",
+     "start": 12.46,
+     "end": 12.94
+    },
+    {
+     "word": "posted",
+     "start": 12.94,
+     "end": 13.3
+    },
+    {
+     "word": "complete",
+     "start": 13.3,
+     "end": 13.82
+    },
+    {
+     "word": "accounts.",
+     "start": 13.82,
+     "end": 14.3
+    }
+   ]
+  },
+  {
+   "id": "c7b2",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 14.535,
+   "end": 25.03,
+   "holdEnd": 25.58,
+   "text": "The proof is accepted. In two thousand ten, the Clay Mathematics Institute awarded Perelman its Millennium Prize, crediting these accounts and years of scrutiny.",
+   "words": [
+    {
+     "word": "The",
+     "start": 14.77,
+     "end": 14.92
+    },
+    {
+     "word": "proof",
+     "start": 14.92,
+     "end": 15.3
+    },
+    {
+     "word": "is",
+     "start": 15.3,
+     "end": 16.02
+    },
+    {
+     "word": "accepted.",
+     "start": 16.02,
+     "end": 16.38
+    },
+    {
+     "word": "In",
+     "start": 17.04,
+     "end": 17.16
+    },
+    {
+     "word": "two",
+     "start": 17.16,
+     "end": 17.344
+    },
+    {
+     "word": "thousand",
+     "start": 17.344,
+     "end": 17.756
+    },
+    {
+     "word": "ten,",
+     "start": 17.756,
+     "end": 17.94
+    },
+    {
+     "word": "the",
+     "start": 18.28,
+     "end": 18.58
+    },
+    {
+     "word": "Clay",
+     "start": 18.58,
+     "end": 18.68
+    },
+    {
+     "word": "Mathematics",
+     "start": 18.68,
+     "end": 19.22
+    },
+    {
+     "word": "Institute",
+     "start": 19.22,
+     "end": 19.78
+    },
+    {
+     "word": "awarded",
+     "start": 19.78,
+     "end": 20.46
+    },
+    {
+     "word": "Perelman",
+     "start": 20.46,
+     "end": 20.94
+    },
+    {
+     "word": "its",
+     "start": 20.94,
+     "end": 21.26
+    },
+    {
+     "word": "Millennium",
+     "start": 21.26,
+     "end": 21.64
+    },
+    {
+     "word": "Prize,",
+     "start": 21.64,
+     "end": 22.06
+    },
+    {
+     "word": "crediting",
+     "start": 22.68,
+     "end": 22.8
+    },
+    {
+     "word": "these",
+     "start": 22.8,
+     "end": 23.14
+    },
+    {
+     "word": "accounts",
+     "start": 23.14,
+     "end": 23.46
+    },
+    {
+     "word": "and",
+     "start": 23.46,
+     "end": 24.08
+    },
+    {
+     "word": "years",
+     "start": 24.08,
+     "end": 24.36
+    },
+    {
+     "word": "of",
+     "start": 24.36,
+     "end": 24.98
+    },
+    {
+     "word": "scrutiny.",
+     "start": 24.98,
+     "end": 25.03
+    }
+   ]
+  },
+  {
+   "id": "c7b3",
+   "status": "context",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 25.58,
+   "end": 32.175,
+   "holdEnd": 32.975,
+   "text": "That is a judgement made by people. What follows is different: a machine check of a formal proof.",
+   "words": [
+    {
+     "word": "That",
+     "start": 26.035,
+     "end": 26.295
+    },
+    {
+     "word": "is",
+     "start": 26.295,
+     "end": 26.495
+    },
+    {
+     "word": "a",
+     "start": 26.495,
+     "end": 26.895
+    },
+    {
+     "word": "judgement",
+     "start": 26.895,
+     "end": 26.895
+    },
+    {
+     "word": "made",
+     "start": 26.895,
+     "end": 27.175
+    },
+    {
+     "word": "by",
+     "start": 27.175,
+     "end": 27.395
+    },
+    {
+     "word": "people.",
+     "start": 27.395,
+     "end": 27.715
+    },
+    {
+     "word": "What",
+     "start": 28.375,
+     "end": 28.515
+    },
+    {
+     "word": "follows",
+     "start": 28.515,
+     "end": 28.895
+    },
+    {
+     "word": "is",
+     "start": 28.895,
+     "end": 29.235
+    },
+    {
+     "word": "different:",
+     "start": 29.235,
+     "end": 29.495
+    },
+    {
+     "word": "a",
+     "start": 29.495,
+     "end": 30.155
+    },
+    {
+     "word": "machine",
+     "start": 30.155,
+     "end": 30.495
+    },
+    {
+     "word": "check",
+     "start": 30.495,
+     "end": 30.815
+    },
+    {
+     "word": "of",
+     "start": 30.815,
+     "end": 31.295
+    },
+    {
+     "word": "a",
+     "start": 31.295,
+     "end": 31.755
+    },
+    {
+     "word": "formal",
+     "start": 31.755,
+     "end": 31.775
+    },
+    {
+     "word": "proof.",
+     "start": 31.775,
+     "end": 32.175
+    }
+   ]
+  }
+ ]
+}

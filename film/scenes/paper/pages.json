@@ -1,0 +1,18 @@
+{
+ "source": "Z. Qin, Y. Liao, A. Khaitan, B. Chow, \"A Lean Formalization of the Hamilton-Perelman Proof of the Three-Dimensional Poincare Conjecture\", arXiv:2609.33842v1, CC BY 4.0",
+ "count": 6,
+ "width_pt": 612.0,
+ "height_pt": 792.0,
+ "closeups": [
+  1
+ ],
+ "regions": {
+  "title": {
+   "page": 1,
+   "x0": 0.1454,
+   "y0": 0.1401,
+   "x1": 0.8546,
+   "y1": 0.2339
+  }
+ }
+}

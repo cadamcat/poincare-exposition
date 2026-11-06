@@ -1,0 +1,1072 @@
+{
+ "chapter": "c2",
+ "voice": "marin",
+ "model": "gpt-4o-mini-tts",
+ "speed": null,
+ "audio": "c2.wav",
+ "duration": 75.82,
+ "inserted": [
+  {
+   "at": 0.0,
+   "seconds": 1.2,
+   "where": "chapter start",
+   "reason": [
+    "chapter title settles"
+   ]
+  },
+  {
+   "at": 29.14,
+   "seconds": 0.54,
+   "where": "passage join",
+   "reason": [
+    "median paragraph pause of the voice in this chapter"
+   ]
+  },
+  {
+   "at": 75.69,
+   "seconds": 0.13,
+   "where": "after c2b8",
+   "reason": [
+    "tail+0.8: picture fades out"
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "id": "c2b1",
+   "status": "definition",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 1.2,
+   "end": 11.81,
+   "holdEnd": 12.055,
+   "text": "A three-dimensional manifold is a space that looks, near every point, like ordinary space. We call it M. Closed means that M is compact, with no edge.",
+   "words": [
+    {
+     "word": "A",
+     "start": 1.2,
+     "end": 1.48
+    },
+    {
+     "word": "three-dimensional",
+     "start": 1.48,
+     "end": 2.2
+    },
+    {
+     "word": "manifold",
+     "start": 2.2,
+     "end": 2.7
+    },
+    {
+     "word": "is",
+     "start": 2.7,
+     "end": 3.24
+    },
+    {
+     "word": "a",
+     "start": 3.24,
+     "end": 3.7
+    },
+    {
+     "word": "space",
+     "start": 3.7,
+     "end": 3.7
+    },
+    {
+     "word": "that",
+     "start": 3.7,
+     "end": 3.98
+    },
+    {
+     "word": "looks,",
+     "start": 3.98,
+     "end": 4.3
+    },
+    {
+     "word": "near",
+     "start": 4.76,
+     "end": 4.76
+    },
+    {
+     "word": "every",
+     "start": 4.76,
+     "end": 5.24
+    },
+    {
+     "word": "point,",
+     "start": 5.24,
+     "end": 5.54
+    },
+    {
+     "word": "like",
+     "start": 5.92,
+     "end": 6.1
+    },
+    {
+     "word": "ordinary",
+     "start": 6.1,
+     "end": 6.52
+    },
+    {
+     "word": "space.",
+     "start": 6.52,
+     "end": 6.92
+    },
+    {
+     "word": "We",
+     "start": 7.52,
+     "end": 7.72
+    },
+    {
+     "word": "call",
+     "start": 7.72,
+     "end": 7.9
+    },
+    {
+     "word": "it",
+     "start": 7.9,
+     "end": 8.16
+    },
+    {
+     "word": "M.",
+     "start": 8.16,
+     "end": 8.4
+    },
+    {
+     "word": "Closed",
+     "start": 9.36,
+     "end": 9.36
+    },
+    {
+     "word": "means",
+     "start": 9.36,
+     "end": 9.66
+    },
+    {
+     "word": "that",
+     "start": 9.66,
+     "end": 9.94
+    },
+    {
+     "word": "M",
+     "start": 9.94,
+     "end": 10.02
+    },
+    {
+     "word": "is",
+     "start": 10.02,
+     "end": 10.38
+    },
+    {
+     "word": "compact,",
+     "start": 10.38,
+     "end": 10.7
+    },
+    {
+     "word": "with",
+     "start": 11.08,
+     "end": 11.22
+    },
+    {
+     "word": "no",
+     "start": 11.22,
+     "end": 11.48
+    },
+    {
+     "word": "edge.",
+     "start": 11.48,
+     "end": 11.81
+    }
+   ]
+  },
+  {
+   "id": "c2b2",
+   "status": "definition",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 12.055,
+   "end": 19.61,
+   "holdEnd": 19.865,
+   "text": "The simplest example is the three-sphere. It is the set of points at distance one from the origin, in four-dimensional space.",
+   "words": [
+    {
+     "word": "The",
+     "start": 12.3,
+     "end": 12.52
+    },
+    {
+     "word": "simplest",
+     "start": 12.52,
+     "end": 12.86
+    },
+    {
+     "word": "example",
+     "start": 12.86,
+     "end": 13.34
+    },
+    {
+     "word": "is",
+     "start": 13.34,
+     "end": 13.84
+    },
+    {
+     "word": "the",
+     "start": 13.84,
+     "end": 14.04
+    },
+    {
+     "word": "three-sphere.",
+     "start": 14.04,
+     "end": 14.58
+    },
+    {
+     "word": "It",
+     "start": 15.22,
+     "end": 15.36
+    },
+    {
+     "word": "is",
+     "start": 15.36,
+     "end": 15.5
+    },
+    {
+     "word": "the",
+     "start": 15.5,
+     "end": 15.7
+    },
+    {
+     "word": "set",
+     "start": 15.7,
+     "end": 15.84
+    },
+    {
+     "word": "of",
+     "start": 15.84,
+     "end": 16.24
+    },
+    {
+     "word": "points",
+     "start": 16.24,
+     "end": 16.24
+    },
+    {
+     "word": "at",
+     "start": 16.24,
+     "end": 16.62
+    },
+    {
+     "word": "distance",
+     "start": 16.62,
+     "end": 16.8
+    },
+    {
+     "word": "one",
+     "start": 16.8,
+     "end": 17.14
+    },
+    {
+     "word": "from",
+     "start": 17.14,
+     "end": 17.34
+    },
+    {
+     "word": "the",
+     "start": 17.34,
+     "end": 17.88
+    },
+    {
+     "word": "origin,",
+     "start": 17.88,
+     "end": 17.88
+    },
+    {
+     "word": "in",
+     "start": 18.3,
+     "end": 18.52
+    },
+    {
+     "word": "four-dimensional",
+     "start": 18.52,
+     "end": 19.14
+    },
+    {
+     "word": "space.",
+     "start": 19.14,
+     "end": 19.61
+    }
+   ]
+  },
+  {
+   "id": "c2b3",
+   "status": "definition",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 19.865,
+   "end": 28.51,
+   "holdEnd": 29.14,
+   "text": "We cannot draw it whole. But near each point it looks like a piece of ordinary space, just as a small patch of the earth looks flat.",
+   "words": [
+    {
+     "word": "We",
+     "start": 20.12,
+     "end": 20.28
+    },
+    {
+     "word": "cannot",
+     "start": 20.28,
+     "end": 20.64
+    },
+    {
+     "word": "draw",
+     "start": 20.64,
+     "end": 20.86
+    },
+    {
+     "word": "it",
+     "start": 20.86,
+     "end": 21.28
+    },
+    {
+     "word": "whole.",
+     "start": 21.28,
+     "end": 21.28
+    },
+    {
+     "word": "But",
+     "start": 21.84,
+     "end": 22.1
+    },
+    {
+     "word": "near",
+     "start": 22.1,
+     "end": 22.3
+    },
+    {
+     "word": "each",
+     "start": 22.3,
+     "end": 22.76
+    },
+    {
+     "word": "point",
+     "start": 22.76,
+     "end": 23.02
+    },
+    {
+     "word": "it",
+     "start": 23.02,
+     "end": 23.54
+    },
+    {
+     "word": "looks",
+     "start": 23.54,
+     "end": 23.68
+    },
+    {
+     "word": "like",
+     "start": 23.68,
+     "end": 23.86
+    },
+    {
+     "word": "a",
+     "start": 23.86,
+     "end": 24.06
+    },
+    {
+     "word": "piece",
+     "start": 24.06,
+     "end": 24.24
+    },
+    {
+     "word": "of",
+     "start": 24.24,
+     "end": 24.92
+    },
+    {
+     "word": "ordinary",
+     "start": 24.92,
+     "end": 24.92
+    },
+    {
+     "word": "space,",
+     "start": 24.92,
+     "end": 25.32
+    },
+    {
+     "word": "just",
+     "start": 25.86,
+     "end": 26.14
+    },
+    {
+     "word": "as",
+     "start": 26.14,
+     "end": 26.34
+    },
+    {
+     "word": "a",
+     "start": 26.34,
+     "end": 26.5
+    },
+    {
+     "word": "small",
+     "start": 26.5,
+     "end": 26.78
+    },
+    {
+     "word": "patch",
+     "start": 26.78,
+     "end": 27.02
+    },
+    {
+     "word": "of",
+     "start": 27.02,
+     "end": 27.18
+    },
+    {
+     "word": "the",
+     "start": 27.18,
+     "end": 27.52
+    },
+    {
+     "word": "earth",
+     "start": 27.52,
+     "end": 27.52
+    },
+    {
+     "word": "looks",
+     "start": 27.52,
+     "end": 28.12
+    },
+    {
+     "word": "flat.",
+     "start": 28.12,
+     "end": 28.51
+    }
+   ]
+  },
+  {
+   "id": "c2b4",
+   "status": "definition",
+   "hold": "short",
+   "paragraph": "2.1",
+   "start": 29.14,
+   "end": 36.37,
+   "holdEnd": 36.675,
+   "text": "M is simply connected if it is connected and every loop in M can be shrunk to a point, without leaving M.",
+   "words": [
+    {
+     "word": "M",
+     "start": 29.14,
+     "end": 29.42
+    },
+    {
+     "word": "is",
+     "start": 29.42,
+     "end": 29.74
+    },
+    {
+     "word": "simply",
+     "start": 29.74,
+     "end": 30.1
+    },
+    {
+     "word": "connected",
+     "start": 30.1,
+     "end": 30.46
+    },
+    {
+     "word": "if",
+     "start": 30.46,
+     "end": 31.0
+    },
+    {
+     "word": "it",
+     "start": 31.0,
+     "end": 31.12
+    },
+    {
+     "word": "is",
+     "start": 31.12,
+     "end": 31.38
+    },
+    {
+     "word": "connected",
+     "start": 31.38,
+     "end": 31.74
+    },
+    {
+     "word": "and",
+     "start": 31.74,
+     "end": 32.4
+    },
+    {
+     "word": "every",
+     "start": 32.4,
+     "end": 32.86
+    },
+    {
+     "word": "loop",
+     "start": 32.86,
+     "end": 33.12
+    },
+    {
+     "word": "in",
+     "start": 33.12,
+     "end": 33.4
+    },
+    {
+     "word": "M",
+     "start": 33.4,
+     "end": 33.66
+    },
+    {
+     "word": "can",
+     "start": 33.66,
+     "end": 34.08
+    },
+    {
+     "word": "be",
+     "start": 34.08,
+     "end": 34.52
+    },
+    {
+     "word": "shrunk",
+     "start": 34.52,
+     "end": 34.52
+    },
+    {
+     "word": "to",
+     "start": 34.52,
+     "end": 34.72
+    },
+    {
+     "word": "a",
+     "start": 34.72,
+     "end": 35.2
+    },
+    {
+     "word": "point,",
+     "start": 35.2,
+     "end": 35.2
+    },
+    {
+     "word": "without",
+     "start": 35.2,
+     "end": 35.8
+    },
+    {
+     "word": "leaving",
+     "start": 35.8,
+     "end": 36.08
+    },
+    {
+     "word": "M.",
+     "start": 36.08,
+     "end": 36.37
+    }
+   ]
+  },
+  {
+   "id": "c2b5",
+   "status": "context",
+   "hold": "short",
+   "paragraph": "2.1",
+   "start": 36.675,
+   "end": 49.31,
+   "holdEnd": 49.575,
+   "text": "Poincaré's question, in modern words: is every closed, simply connected three-manifold homeomorphic to the three-sphere? Homeomorphic means matched point for point, continuously in both directions.",
+   "words": [
+    {
+     "word": "Poincaré's",
+     "start": 36.98,
+     "end": 37.52
+    },
+    {
+     "word": "question,",
+     "start": 37.52,
+     "end": 37.88
+    },
+    {
+     "word": "in",
+     "start": 38.24,
+     "end": 38.34
+    },
+    {
+     "word": "modern",
+     "start": 38.34,
+     "end": 38.62
+    },
+    {
+     "word": "words:",
+     "start": 38.62,
+     "end": 39.02
+    },
+    {
+     "word": "is",
+     "start": 39.62,
+     "end": 39.64
+    },
+    {
+     "word": "every",
+     "start": 39.64,
+     "end": 40.08
+    },
+    {
+     "word": "closed,",
+     "start": 40.08,
+     "end": 40.56
+    },
+    {
+     "word": "simply",
+     "start": 40.76,
+     "end": 41.06
+    },
+    {
+     "word": "connected",
+     "start": 41.06,
+     "end": 41.42
+    },
+    {
+     "word": "three-manifold",
+     "start": 41.42,
+     "end": 42.2
+    },
+    {
+     "word": "homeomorphic",
+     "start": 42.56,
+     "end": 43.28
+    },
+    {
+     "word": "to",
+     "start": 43.28,
+     "end": 43.4
+    },
+    {
+     "word": "the",
+     "start": 43.4,
+     "end": 43.56
+    },
+    {
+     "word": "three-sphere?",
+     "start": 43.56,
+     "end": 44.06
+    },
+    {
+     "word": "Homeomorphic",
+     "start": 44.86,
+     "end": 45.42
+    },
+    {
+     "word": "means",
+     "start": 45.42,
+     "end": 45.7
+    },
+    {
+     "word": "matched",
+     "start": 45.7,
+     "end": 46.1
+    },
+    {
+     "word": "point",
+     "start": 46.1,
+     "end": 46.46
+    },
+    {
+     "word": "for",
+     "start": 46.46,
+     "end": 46.7
+    },
+    {
+     "word": "point,",
+     "start": 46.7,
+     "end": 47.02
+    },
+    {
+     "word": "continuously",
+     "start": 47.6,
+     "end": 48.08
+    },
+    {
+     "word": "in",
+     "start": 48.08,
+     "end": 48.44
+    },
+    {
+     "word": "both",
+     "start": 48.44,
+     "end": 48.68
+    },
+    {
+     "word": "directions.",
+     "start": 48.68,
+     "end": 49.31
+    }
+   ]
+  },
+  {
+   "id": "c2b6",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "2.1",
+   "start": 49.575,
+   "end": 59.51,
+   "holdEnd": 59.825,
+   "text": "The loop test is essential. Poincaré himself found a space with the same homology as the sphere, yet with a loop that cannot shrink. So it is not a sphere.",
+   "words": [
+    {
+     "word": "The",
+     "start": 49.84,
+     "end": 50.04
+    },
+    {
+     "word": "loop",
+     "start": 50.04,
+     "end": 50.26
+    },
+    {
+     "word": "test",
+     "start": 50.26,
+     "end": 50.66
+    },
+    {
+     "word": "is",
+     "start": 50.66,
+     "end": 51.1
+    },
+    {
+     "word": "essential.",
+     "start": 51.1,
+     "end": 51.5
+    },
+    {
+     "word": "Poincaré",
+     "start": 52.48,
+     "end": 52.66
+    },
+    {
+     "word": "himself",
+     "start": 52.66,
+     "end": 53.22
+    },
+    {
+     "word": "found",
+     "start": 53.22,
+     "end": 53.46
+    },
+    {
+     "word": "a",
+     "start": 53.46,
+     "end": 53.88
+    },
+    {
+     "word": "space",
+     "start": 53.88,
+     "end": 53.88
+    },
+    {
+     "word": "with",
+     "start": 53.88,
+     "end": 54.08
+    },
+    {
+     "word": "the",
+     "start": 54.08,
+     "end": 54.28
+    },
+    {
+     "word": "same",
+     "start": 54.28,
+     "end": 54.64
+    },
+    {
+     "word": "homology",
+     "start": 54.64,
+     "end": 55.02
+    },
+    {
+     "word": "as",
+     "start": 55.02,
+     "end": 55.22
+    },
+    {
+     "word": "the",
+     "start": 55.22,
+     "end": 55.66
+    },
+    {
+     "word": "sphere,",
+     "start": 55.66,
+     "end": 55.66
+    },
+    {
+     "word": "yet",
+     "start": 56.2,
+     "end": 56.4
+    },
+    {
+     "word": "with",
+     "start": 56.4,
+     "end": 56.58
+    },
+    {
+     "word": "a",
+     "start": 56.58,
+     "end": 56.96
+    },
+    {
+     "word": "loop",
+     "start": 56.96,
+     "end": 56.96
+    },
+    {
+     "word": "that",
+     "start": 56.96,
+     "end": 57.26
+    },
+    {
+     "word": "cannot",
+     "start": 57.26,
+     "end": 57.56
+    },
+    {
+     "word": "shrink.",
+     "start": 57.56,
+     "end": 57.86
+    },
+    {
+     "word": "So",
+     "start": 58.42,
+     "end": 58.62
+    },
+    {
+     "word": "it",
+     "start": 58.62,
+     "end": 58.7
+    },
+    {
+     "word": "is",
+     "start": 58.7,
+     "end": 58.92
+    },
+    {
+     "word": "not",
+     "start": 58.92,
+     "end": 59.06
+    },
+    {
+     "word": "a",
+     "start": 59.06,
+     "end": 59.44
+    },
+    {
+     "word": "sphere.",
+     "start": 59.44,
+     "end": 59.51
+    }
+   ]
+  },
+  {
+   "id": "c2b7",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "2.2",
+   "start": 59.825,
+   "end": 72.039,
+   "holdEnd": 72.324,
+   "text": "In dimensions above three, the question was settled first. Smale proved it for smooth manifolds from dimension five up, in nineteen sixty-one. Freedman proved dimension four, in nineteen eighty-two.",
+   "words": [
+    {
+     "word": "In",
+     "start": 60.14,
+     "end": 60.34
+    },
+    {
+     "word": "dimensions",
+     "start": 60.34,
+     "end": 60.72
+    },
+    {
+     "word": "above",
+     "start": 60.72,
+     "end": 61.08
+    },
+    {
+     "word": "three,",
+     "start": 61.08,
+     "end": 61.38
+    },
+    {
+     "word": "the",
+     "start": 61.8,
+     "end": 62.02
+    },
+    {
+     "word": "question",
+     "start": 62.02,
+     "end": 62.28
+    },
+    {
+     "word": "was",
+     "start": 62.28,
+     "end": 62.58
+    },
+    {
+     "word": "settled",
+     "start": 62.58,
+     "end": 62.72
+    },
+    {
+     "word": "first.",
+     "start": 62.72,
+     "end": 63.24
+    },
+    {
+     "word": "Smale",
+     "start": 64.08,
+     "end": 64.26
+    },
+    {
+     "word": "proved",
+     "start": 64.26,
+     "end": 64.6
+    },
+    {
+     "word": "it",
+     "start": 64.6,
+     "end": 64.72
+    },
+    {
+     "word": "for",
+     "start": 64.72,
+     "end": 64.98
+    },
+    {
+     "word": "smooth",
+     "start": 64.98,
+     "end": 65.24
+    },
+    {
+     "word": "manifolds",
+     "start": 65.24,
+     "end": 65.72
+    },
+    {
+     "word": "from",
+     "start": 65.72,
+     "end": 66.0
+    },
+    {
+     "word": "dimension",
+     "start": 66.0,
+     "end": 66.3
+    },
+    {
+     "word": "five",
+     "start": 66.3,
+     "end": 66.72
+    },
+    {
+     "word": "up,",
+     "start": 66.72,
+     "end": 66.94
+    },
+    {
+     "word": "in",
+     "start": 66.94,
+     "end": 67.5
+    },
+    {
+     "word": "nineteen",
+     "start": 67.5,
+     "end": 68.18
+    },
+    {
+     "word": "sixty-one.",
+     "start": 68.18,
+     "end": 68.86
+    },
+    {
+     "word": "Freedman",
+     "start": 68.86,
+     "end": 69.54
+    },
+    {
+     "word": "proved",
+     "start": 69.54,
+     "end": 69.92
+    },
+    {
+     "word": "dimension",
+     "start": 69.92,
+     "end": 70.22
+    },
+    {
+     "word": "four,",
+     "start": 70.22,
+     "end": 70.66
+    },
+    {
+     "word": "in",
+     "start": 70.66,
+     "end": 71.16
+    },
+    {
+     "word": "nineteen",
+     "start": 71.16,
+     "end": 71.539
+    },
+    {
+     "word": "eighty-two.",
+     "start": 71.539,
+     "end": 72.039
+    }
+   ]
+  },
+  {
+   "id": "c2b8",
+   "status": "context",
+   "hold": "short",
+   "paragraph": "2.2",
+   "start": 72.324,
+   "end": 75.02,
+   "holdEnd": 75.82,
+   "text": "Dimension three was the last case left.",
+   "words": [
+    {
+     "word": "Dimension",
+     "start": 72.609,
+     "end": 72.94
+    },
+    {
+     "word": "three",
+     "start": 72.94,
+     "end": 73.44
+    },
+    {
+     "word": "was",
+     "start": 73.44,
+     "end": 73.86
+    },
+    {
+     "word": "the",
+     "start": 73.86,
+     "end": 74.02
+    },
+    {
+     "word": "last",
+     "start": 74.02,
+     "end": 74.34
+    },
+    {
+     "word": "case",
+     "start": 74.34,
+     "end": 74.6
+    },
+    {
+     "word": "left.",
+     "start": 74.6,
+     "end": 75.02
+    }
+   ]
+  }
+ ]
+}

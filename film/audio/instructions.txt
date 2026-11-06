@@ -1,0 +1,13 @@
+Voice: a calm, warm mathematics lecturer, explaining to a curious, intelligent audience who are hearing this for the first time.
+
+Pace: slow and deliberate, about 125 words per minute, much slower than everyday speech. Keep this slow pace from the first sentence to the very last; do not speed up in later paragraphs. Never rush, and read every sentence to its end.
+
+Pauses: pause naturally at the end of every sentence, as a lecturer does while the audience takes in the board, and briefly at commas. The text is divided into paragraphs by blank lines. Between paragraphs, take a longer, natural breath before the new idea, the way a speaker turns to a new part of the board.
+
+Tone: conversational and engaged, not an announcer. Let the pitch rise and fall naturally through each sentence, and carry the thread from one sentence to the next.
+
+Lists: give each item its own small falling tone, with a pause before the next.
+
+Symbols: single letters such as M, g, t, R, W and c, and Greek letters and words such as kappa and pi, are mathematical symbols; say each one clearly and a little more slowly, as a lecturer would at the board. "R min" is said as two words, "T star" and "W zero" likewise.
+
+Pronunciation: Poincaré is pwahn-kah-RAY; Perelman is PEH-rel-mun; Grisha is GREE-sha; Ricci is REE-chee; Moise is moh-EEZ; Minicozzi is mee-nee-KOHT-see; Colding is KOHL-ding; Khaitan is KY-tun; Qin is CHIN; Liao is lee-OW; Smale is SMAYL; Mathlib is MATH-lib; MathDB is math-D-B.

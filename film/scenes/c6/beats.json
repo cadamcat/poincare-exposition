@@ -1,0 +1,1731 @@
+{
+ "chapter": "c6",
+ "voice": "marin",
+ "model": "gpt-4o-mini-tts",
+ "speed": null,
+ "audio": "c6.wav",
+ "duration": 118.555,
+ "inserted": [
+  {
+   "at": 0.0,
+   "seconds": 1.2,
+   "where": "chapter start",
+   "reason": [
+    "chapter title settles"
+   ]
+  },
+  {
+   "at": 60.925,
+   "seconds": 0.575,
+   "where": "passage join",
+   "reason": [
+    "median paragraph pause of the voice in this chapter"
+   ]
+  },
+  {
+   "at": 117.925,
+   "seconds": 0.63,
+   "where": "after c6b10",
+   "reason": [
+    "tail+0.8: picture fades out"
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "id": "c6b1",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 1.2,
+   "end": 13.3,
+   "holdEnd": 13.595,
+   "text": "One question remains: does the flow with surgery ever stop? For a simply connected M, it does. After a finite time, nothing is left. This is finite extinction.",
+   "words": [
+    {
+     "word": "One",
+     "start": 1.2,
+     "end": 1.48
+    },
+    {
+     "word": "question",
+     "start": 1.48,
+     "end": 1.88
+    },
+    {
+     "word": "remains:",
+     "start": 1.88,
+     "end": 2.34
+    },
+    {
+     "word": "does",
+     "start": 3.18,
+     "end": 3.18
+    },
+    {
+     "word": "the",
+     "start": 3.18,
+     "end": 3.4
+    },
+    {
+     "word": "flow",
+     "start": 3.4,
+     "end": 3.6
+    },
+    {
+     "word": "with",
+     "start": 3.6,
+     "end": 3.86
+    },
+    {
+     "word": "surgery",
+     "start": 3.86,
+     "end": 4.24
+    },
+    {
+     "word": "ever",
+     "start": 4.24,
+     "end": 4.72
+    },
+    {
+     "word": "stop?",
+     "start": 4.72,
+     "end": 5.02
+    },
+    {
+     "word": "For",
+     "start": 5.44,
+     "end": 5.88
+    },
+    {
+     "word": "a",
+     "start": 5.88,
+     "end": 6.18
+    },
+    {
+     "word": "simply",
+     "start": 6.18,
+     "end": 6.36
+    },
+    {
+     "word": "connected",
+     "start": 6.36,
+     "end": 6.68
+    },
+    {
+     "word": "M,",
+     "start": 6.68,
+     "end": 7.0
+    },
+    {
+     "word": "it",
+     "start": 7.4,
+     "end": 7.64
+    },
+    {
+     "word": "does.",
+     "start": 7.64,
+     "end": 7.96
+    },
+    {
+     "word": "After",
+     "start": 8.9,
+     "end": 8.9
+    },
+    {
+     "word": "a",
+     "start": 8.9,
+     "end": 9.3
+    },
+    {
+     "word": "finite",
+     "start": 9.3,
+     "end": 9.4
+    },
+    {
+     "word": "time,",
+     "start": 9.4,
+     "end": 9.86
+    },
+    {
+     "word": "nothing",
+     "start": 10.52,
+     "end": 10.6
+    },
+    {
+     "word": "is",
+     "start": 10.6,
+     "end": 10.88
+    },
+    {
+     "word": "left.",
+     "start": 10.88,
+     "end": 11.12
+    },
+    {
+     "word": "This",
+     "start": 11.9,
+     "end": 12.1
+    },
+    {
+     "word": "is",
+     "start": 12.1,
+     "end": 12.4
+    },
+    {
+     "word": "finite",
+     "start": 12.4,
+     "end": 12.68
+    },
+    {
+     "word": "extinction.",
+     "start": 12.68,
+     "end": 13.3
+    }
+   ]
+  },
+  {
+   "id": "c6b2",
+   "status": "definition",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 13.595,
+   "end": 27.07,
+   "holdEnd": 27.31,
+   "text": "Perelman measures M by a width, called W. Take a family of loops that sweeps across M. Fill each loop with a disc of least area. W is the smallest possible value of the largest disc area.",
+   "words": [
+    {
+     "word": "Perelman",
+     "start": 13.89,
+     "end": 14.34
+    },
+    {
+     "word": "measures",
+     "start": 14.34,
+     "end": 14.72
+    },
+    {
+     "word": "M",
+     "start": 14.72,
+     "end": 15.1
+    },
+    {
+     "word": "by",
+     "start": 15.1,
+     "end": 15.4
+    },
+    {
+     "word": "a",
+     "start": 15.4,
+     "end": 15.86
+    },
+    {
+     "word": "width,",
+     "start": 15.86,
+     "end": 15.86
+    },
+    {
+     "word": "called",
+     "start": 16.26,
+     "end": 16.46
+    },
+    {
+     "word": "W.",
+     "start": 16.46,
+     "end": 16.88
+    },
+    {
+     "word": "Take",
+     "start": 17.8,
+     "end": 17.9
+    },
+    {
+     "word": "a",
+     "start": 17.9,
+     "end": 18.32
+    },
+    {
+     "word": "family",
+     "start": 18.32,
+     "end": 18.32
+    },
+    {
+     "word": "of",
+     "start": 18.32,
+     "end": 18.8
+    },
+    {
+     "word": "loops",
+     "start": 18.8,
+     "end": 18.8
+    },
+    {
+     "word": "that",
+     "start": 18.8,
+     "end": 19.28
+    },
+    {
+     "word": "sweeps",
+     "start": 19.28,
+     "end": 19.46
+    },
+    {
+     "word": "across",
+     "start": 19.46,
+     "end": 19.82
+    },
+    {
+     "word": "M.",
+     "start": 19.82,
+     "end": 20.18
+    },
+    {
+     "word": "Fill",
+     "start": 21.02,
+     "end": 21.02
+    },
+    {
+     "word": "each",
+     "start": 21.02,
+     "end": 21.34
+    },
+    {
+     "word": "loop",
+     "start": 21.34,
+     "end": 21.52
+    },
+    {
+     "word": "with",
+     "start": 21.52,
+     "end": 21.68
+    },
+    {
+     "word": "a",
+     "start": 21.68,
+     "end": 22.02
+    },
+    {
+     "word": "disc",
+     "start": 22.02,
+     "end": 22.06
+    },
+    {
+     "word": "of",
+     "start": 22.06,
+     "end": 22.3
+    },
+    {
+     "word": "least",
+     "start": 22.3,
+     "end": 22.56
+    },
+    {
+     "word": "area.",
+     "start": 22.56,
+     "end": 22.86
+    },
+    {
+     "word": "W",
+     "start": 23.66,
+     "end": 24.06
+    },
+    {
+     "word": "is",
+     "start": 24.06,
+     "end": 24.3
+    },
+    {
+     "word": "the",
+     "start": 24.3,
+     "end": 24.56
+    },
+    {
+     "word": "smallest",
+     "start": 24.56,
+     "end": 24.82
+    },
+    {
+     "word": "possible",
+     "start": 24.82,
+     "end": 25.34
+    },
+    {
+     "word": "value",
+     "start": 25.34,
+     "end": 25.66
+    },
+    {
+     "word": "of",
+     "start": 25.66,
+     "end": 25.88
+    },
+    {
+     "word": "the",
+     "start": 25.88,
+     "end": 26.08
+    },
+    {
+     "word": "largest",
+     "start": 26.08,
+     "end": 26.4
+    },
+    {
+     "word": "disc",
+     "start": 26.4,
+     "end": 26.7
+    },
+    {
+     "word": "area.",
+     "start": 26.7,
+     "end": 27.07
+    }
+   ]
+  },
+  {
+   "id": "c6b3",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 27.31,
+   "end": 38.35,
+   "holdEnd": 38.56,
+   "text": "Under the flow, d W by d t is at most minus two pi, minus one half of R min times W. Here R min is the smallest scalar curvature at that time.",
+   "words": [
+    {
+     "word": "Under",
+     "start": 27.55,
+     "end": 27.98
+    },
+    {
+     "word": "the",
+     "start": 27.98,
+     "end": 28.18
+    },
+    {
+     "word": "flow,",
+     "start": 28.18,
+     "end": 28.46
+    },
+    {
+     "word": "d",
+     "start": 29.0,
+     "end": 29.17
+    },
+    {
+     "word": "W",
+     "start": 29.17,
+     "end": 29.34
+    },
+    {
+     "word": "by",
+     "start": 29.34,
+     "end": 29.72
+    },
+    {
+     "word": "d",
+     "start": 29.72,
+     "end": 29.87
+    },
+    {
+     "word": "t",
+     "start": 29.87,
+     "end": 30.02
+    },
+    {
+     "word": "is",
+     "start": 30.02,
+     "end": 30.32
+    },
+    {
+     "word": "at",
+     "start": 30.32,
+     "end": 30.52
+    },
+    {
+     "word": "most",
+     "start": 30.52,
+     "end": 30.66
+    },
+    {
+     "word": "minus",
+     "start": 30.66,
+     "end": 31.14
+    },
+    {
+     "word": "two",
+     "start": 31.14,
+     "end": 31.46
+    },
+    {
+     "word": "pi,",
+     "start": 31.46,
+     "end": 31.64
+    },
+    {
+     "word": "minus",
+     "start": 32.32,
+     "end": 32.56
+    },
+    {
+     "word": "one",
+     "start": 32.56,
+     "end": 32.84
+    },
+    {
+     "word": "half",
+     "start": 32.84,
+     "end": 33.0
+    },
+    {
+     "word": "of",
+     "start": 33.0,
+     "end": 33.36
+    },
+    {
+     "word": "R",
+     "start": 33.36,
+     "end": 33.5
+    },
+    {
+     "word": "min",
+     "start": 33.5,
+     "end": 33.56
+    },
+    {
+     "word": "times",
+     "start": 33.56,
+     "end": 34.02
+    },
+    {
+     "word": "W.",
+     "start": 34.02,
+     "end": 34.42
+    },
+    {
+     "word": "Here",
+     "start": 35.46,
+     "end": 35.58
+    },
+    {
+     "word": "R",
+     "start": 35.58,
+     "end": 35.92
+    },
+    {
+     "word": "min",
+     "start": 35.92,
+     "end": 36.02
+    },
+    {
+     "word": "is",
+     "start": 36.02,
+     "end": 36.28
+    },
+    {
+     "word": "the",
+     "start": 36.28,
+     "end": 36.46
+    },
+    {
+     "word": "smallest",
+     "start": 36.46,
+     "end": 36.84
+    },
+    {
+     "word": "scalar",
+     "start": 36.84,
+     "end": 37.18
+    },
+    {
+     "word": "curvature",
+     "start": 37.18,
+     "end": 37.46
+    },
+    {
+     "word": "at",
+     "start": 37.46,
+     "end": 37.82
+    },
+    {
+     "word": "that",
+     "start": 37.82,
+     "end": 38.02
+    },
+    {
+     "word": "time.",
+     "start": 38.02,
+     "end": 38.35
+    }
+   ]
+  },
+  {
+   "id": "c6b4",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "1.1",
+   "start": 38.56,
+   "end": 48.41,
+   "holdEnd": 48.85,
+   "text": "And the scalar curvature cannot become very negative. R min is at least minus three halves, over t plus c, where c is a constant fixed by the starting metric.",
+   "words": [
+    {
+     "word": "And",
+     "start": 38.77,
+     "end": 39.08
+    },
+    {
+     "word": "the",
+     "start": 39.08,
+     "end": 39.54
+    },
+    {
+     "word": "scalar",
+     "start": 39.54,
+     "end": 39.54
+    },
+    {
+     "word": "curvature",
+     "start": 39.54,
+     "end": 39.86
+    },
+    {
+     "word": "cannot",
+     "start": 39.86,
+     "end": 40.34
+    },
+    {
+     "word": "become",
+     "start": 40.34,
+     "end": 40.68
+    },
+    {
+     "word": "very",
+     "start": 40.68,
+     "end": 41.08
+    },
+    {
+     "word": "negative.",
+     "start": 41.08,
+     "end": 41.36
+    },
+    {
+     "word": "R",
+     "start": 42.18,
+     "end": 42.42
+    },
+    {
+     "word": "min",
+     "start": 42.42,
+     "end": 42.56
+    },
+    {
+     "word": "is",
+     "start": 42.56,
+     "end": 42.78
+    },
+    {
+     "word": "at",
+     "start": 42.78,
+     "end": 42.92
+    },
+    {
+     "word": "least",
+     "start": 42.92,
+     "end": 43.1
+    },
+    {
+     "word": "minus",
+     "start": 43.1,
+     "end": 43.52
+    },
+    {
+     "word": "three",
+     "start": 43.52,
+     "end": 43.88
+    },
+    {
+     "word": "halves,",
+     "start": 43.88,
+     "end": 44.12
+    },
+    {
+     "word": "over",
+     "start": 44.52,
+     "end": 44.68
+    },
+    {
+     "word": "t",
+     "start": 44.68,
+     "end": 44.96
+    },
+    {
+     "word": "plus",
+     "start": 44.96,
+     "end": 45.22
+    },
+    {
+     "word": "c,",
+     "start": 45.22,
+     "end": 45.4
+    },
+    {
+     "word": "where",
+     "start": 45.92,
+     "end": 46.06
+    },
+    {
+     "word": "c",
+     "start": 46.06,
+     "end": 46.3
+    },
+    {
+     "word": "is",
+     "start": 46.3,
+     "end": 46.44
+    },
+    {
+     "word": "a",
+     "start": 46.44,
+     "end": 46.66
+    },
+    {
+     "word": "constant",
+     "start": 46.66,
+     "end": 47.02
+    },
+    {
+     "word": "fixed",
+     "start": 47.02,
+     "end": 47.32
+    },
+    {
+     "word": "by",
+     "start": 47.32,
+     "end": 47.5
+    },
+    {
+     "word": "the",
+     "start": 47.5,
+     "end": 47.72
+    },
+    {
+     "word": "starting",
+     "start": 47.72,
+     "end": 47.94
+    },
+    {
+     "word": "metric.",
+     "start": 47.94,
+     "end": 48.41
+    }
+   ]
+  },
+  {
+   "id": "c6b5",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "1.2",
+   "start": 48.85,
+   "end": 60.24,
+   "holdEnd": 60.925,
+   "text": "Put the two together and integrate. The width is held below a curve that reaches zero at a finite time, T star. A width cannot be negative, so by T star nothing is left.",
+   "words": [
+    {
+     "word": "Put",
+     "start": 49.29,
+     "end": 49.44
+    },
+    {
+     "word": "the",
+     "start": 49.44,
+     "end": 49.6
+    },
+    {
+     "word": "two",
+     "start": 49.6,
+     "end": 49.74
+    },
+    {
+     "word": "together",
+     "start": 49.74,
+     "end": 50.08
+    },
+    {
+     "word": "and",
+     "start": 50.08,
+     "end": 50.42
+    },
+    {
+     "word": "integrate.",
+     "start": 50.42,
+     "end": 50.68
+    },
+    {
+     "word": "The",
+     "start": 51.58,
+     "end": 51.72
+    },
+    {
+     "word": "width",
+     "start": 51.72,
+     "end": 51.94
+    },
+    {
+     "word": "is",
+     "start": 51.94,
+     "end": 52.2
+    },
+    {
+     "word": "held",
+     "start": 52.2,
+     "end": 52.4
+    },
+    {
+     "word": "below",
+     "start": 52.4,
+     "end": 52.6
+    },
+    {
+     "word": "a",
+     "start": 52.6,
+     "end": 53.04
+    },
+    {
+     "word": "curve",
+     "start": 53.04,
+     "end": 53.04
+    },
+    {
+     "word": "that",
+     "start": 53.04,
+     "end": 53.22
+    },
+    {
+     "word": "reaches",
+     "start": 53.22,
+     "end": 53.5
+    },
+    {
+     "word": "zero",
+     "start": 53.5,
+     "end": 53.88
+    },
+    {
+     "word": "at",
+     "start": 53.88,
+     "end": 54.04
+    },
+    {
+     "word": "a",
+     "start": 54.04,
+     "end": 54.48
+    },
+    {
+     "word": "finite",
+     "start": 54.48,
+     "end": 54.48
+    },
+    {
+     "word": "time,",
+     "start": 54.48,
+     "end": 54.88
+    },
+    {
+     "word": "T",
+     "start": 55.46,
+     "end": 55.48
+    },
+    {
+     "word": "star.",
+     "start": 55.48,
+     "end": 55.72
+    },
+    {
+     "word": "A",
+     "start": 56.62,
+     "end": 56.78
+    },
+    {
+     "word": "width",
+     "start": 56.78,
+     "end": 56.98
+    },
+    {
+     "word": "cannot",
+     "start": 56.98,
+     "end": 57.22
+    },
+    {
+     "word": "be",
+     "start": 57.22,
+     "end": 57.48
+    },
+    {
+     "word": "negative,",
+     "start": 57.48,
+     "end": 57.8
+    },
+    {
+     "word": "so",
+     "start": 58.3,
+     "end": 58.44
+    },
+    {
+     "word": "by",
+     "start": 58.44,
+     "end": 58.58
+    },
+    {
+     "word": "T",
+     "start": 58.58,
+     "end": 58.86
+    },
+    {
+     "word": "star",
+     "start": 58.86,
+     "end": 59.14
+    },
+    {
+     "word": "nothing",
+     "start": 59.64,
+     "end": 59.7
+    },
+    {
+     "word": "is",
+     "start": 59.7,
+     "end": 59.94
+    },
+    {
+     "word": "left.",
+     "start": 59.94,
+     "end": 60.24
+    }
+   ]
+  },
+  {
+   "id": "c6b6",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "2.1",
+   "start": 60.925,
+   "end": 77.275,
+   "holdEnd": 77.575,
+   "text": "This deadline holds for every piece at once. Trace any surviving piece back through the surgeries. Its ancestors lead to M at the start, so its width starts at the same value, W zero. Surgery never raises the width. One deadline covers them all.",
+   "words": [
+    {
+     "word": "This",
+     "start": 60.925,
+     "end": 61.325
+    },
+    {
+     "word": "deadline",
+     "start": 61.325,
+     "end": 61.765
+    },
+    {
+     "word": "holds",
+     "start": 61.765,
+     "end": 62.185
+    },
+    {
+     "word": "for",
+     "start": 62.185,
+     "end": 62.485
+    },
+    {
+     "word": "every",
+     "start": 62.485,
+     "end": 62.825
+    },
+    {
+     "word": "piece",
+     "start": 62.825,
+     "end": 63.105
+    },
+    {
+     "word": "at",
+     "start": 63.105,
+     "end": 63.445
+    },
+    {
+     "word": "once.",
+     "start": 63.445,
+     "end": 63.685
+    },
+    {
+     "word": "Trace",
+     "start": 64.505,
+     "end": 64.505
+    },
+    {
+     "word": "any",
+     "start": 64.505,
+     "end": 64.965
+    },
+    {
+     "word": "surviving",
+     "start": 64.965,
+     "end": 65.305
+    },
+    {
+     "word": "piece",
+     "start": 65.305,
+     "end": 65.705
+    },
+    {
+     "word": "back",
+     "start": 65.705,
+     "end": 66.125
+    },
+    {
+     "word": "through",
+     "start": 66.125,
+     "end": 66.345
+    },
+    {
+     "word": "the",
+     "start": 66.345,
+     "end": 66.565
+    },
+    {
+     "word": "surgeries.",
+     "start": 66.565,
+     "end": 66.905
+    },
+    {
+     "word": "Its",
+     "start": 67.605,
+     "end": 67.785
+    },
+    {
+     "word": "ancestors",
+     "start": 67.785,
+     "end": 68.305
+    },
+    {
+     "word": "lead",
+     "start": 68.305,
+     "end": 68.645
+    },
+    {
+     "word": "to",
+     "start": 68.645,
+     "end": 69.045
+    },
+    {
+     "word": "M",
+     "start": 69.045,
+     "end": 69.105
+    },
+    {
+     "word": "at",
+     "start": 69.105,
+     "end": 69.305
+    },
+    {
+     "word": "the",
+     "start": 69.305,
+     "end": 69.625
+    },
+    {
+     "word": "start,",
+     "start": 69.625,
+     "end": 69.685
+    },
+    {
+     "word": "so",
+     "start": 69.965,
+     "end": 70.245
+    },
+    {
+     "word": "its",
+     "start": 70.245,
+     "end": 70.485
+    },
+    {
+     "word": "width",
+     "start": 70.485,
+     "end": 70.705
+    },
+    {
+     "word": "starts",
+     "start": 70.705,
+     "end": 71.025
+    },
+    {
+     "word": "at",
+     "start": 71.025,
+     "end": 71.165
+    },
+    {
+     "word": "the",
+     "start": 71.165,
+     "end": 71.305
+    },
+    {
+     "word": "same",
+     "start": 71.305,
+     "end": 71.585
+    },
+    {
+     "word": "value,",
+     "start": 71.585,
+     "end": 71.885
+    },
+    {
+     "word": "W",
+     "start": 72.285,
+     "end": 72.545
+    },
+    {
+     "word": "zero.",
+     "start": 72.545,
+     "end": 72.845
+    },
+    {
+     "word": "Surgery",
+     "start": 73.905,
+     "end": 73.905
+    },
+    {
+     "word": "never",
+     "start": 73.905,
+     "end": 74.425
+    },
+    {
+     "word": "raises",
+     "start": 74.425,
+     "end": 74.745
+    },
+    {
+     "word": "the",
+     "start": 74.745,
+     "end": 75.165
+    },
+    {
+     "word": "width.",
+     "start": 75.165,
+     "end": 75.165
+    },
+    {
+     "word": "One",
+     "start": 75.845,
+     "end": 76.105
+    },
+    {
+     "word": "deadline",
+     "start": 76.105,
+     "end": 76.485
+    },
+    {
+     "word": "covers",
+     "start": 76.485,
+     "end": 76.885
+    },
+    {
+     "word": "them",
+     "start": 76.885,
+     "end": 77.085
+    },
+    {
+     "word": "all.",
+     "start": 77.085,
+     "end": 77.275
+    }
+   ]
+  },
+  {
+   "id": "c6b7",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "2.1",
+   "start": 77.575,
+   "end": 89.025,
+   "holdEnd": 89.27,
+   "text": "Colding and Minicozzi gave a second proof, sweeping with spheres instead of loops. Their width falls with four pi in place of two pi. Each route keeps its own constants.",
+   "words": [
+    {
+     "word": "Colding",
+     "start": 77.875,
+     "end": 78.305
+    },
+    {
+     "word": "and",
+     "start": 78.305,
+     "end": 78.545
+    },
+    {
+     "word": "Minicozzi",
+     "start": 78.545,
+     "end": 79.045
+    },
+    {
+     "word": "gave",
+     "start": 79.045,
+     "end": 79.325
+    },
+    {
+     "word": "a",
+     "start": 79.325,
+     "end": 79.785
+    },
+    {
+     "word": "second",
+     "start": 79.785,
+     "end": 79.785
+    },
+    {
+     "word": "proof,",
+     "start": 79.785,
+     "end": 80.145
+    },
+    {
+     "word": "sweeping",
+     "start": 80.905,
+     "end": 80.905
+    },
+    {
+     "word": "with",
+     "start": 80.905,
+     "end": 81.765
+    },
+    {
+     "word": "spheres",
+     "start": 81.765,
+     "end": 81.765
+    },
+    {
+     "word": "instead",
+     "start": 81.765,
+     "end": 82.245
+    },
+    {
+     "word": "of",
+     "start": 82.245,
+     "end": 82.765
+    },
+    {
+     "word": "loops.",
+     "start": 82.765,
+     "end": 82.765
+    },
+    {
+     "word": "Their",
+     "start": 83.345,
+     "end": 83.685
+    },
+    {
+     "word": "width",
+     "start": 83.685,
+     "end": 83.925
+    },
+    {
+     "word": "falls",
+     "start": 83.925,
+     "end": 84.245
+    },
+    {
+     "word": "with",
+     "start": 84.245,
+     "end": 84.565
+    },
+    {
+     "word": "four",
+     "start": 84.565,
+     "end": 84.905
+    },
+    {
+     "word": "pi",
+     "start": 84.905,
+     "end": 85.125
+    },
+    {
+     "word": "in",
+     "start": 85.125,
+     "end": 85.545
+    },
+    {
+     "word": "place",
+     "start": 85.545,
+     "end": 85.665
+    },
+    {
+     "word": "of",
+     "start": 85.665,
+     "end": 85.865
+    },
+    {
+     "word": "two",
+     "start": 85.865,
+     "end": 86.125
+    },
+    {
+     "word": "pi.",
+     "start": 86.125,
+     "end": 86.325
+    },
+    {
+     "word": "Each",
+     "start": 87.045,
+     "end": 87.265
+    },
+    {
+     "word": "route",
+     "start": 87.265,
+     "end": 87.585
+    },
+    {
+     "word": "keeps",
+     "start": 87.585,
+     "end": 87.945
+    },
+    {
+     "word": "its",
+     "start": 87.945,
+     "end": 88.165
+    },
+    {
+     "word": "own",
+     "start": 88.165,
+     "end": 88.465
+    },
+    {
+     "word": "constants.",
+     "start": 88.465,
+     "end": 89.025
+    }
+   ]
+  },
+  {
+   "id": "c6b8",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "2.2",
+   "start": 89.27,
+   "end": 100.425,
+   "holdEnd": 100.685,
+   "text": "Now read the history backwards. Every piece that vanished was built from the three-sphere, its quotients, and the product of a two-sphere and a circle. So M is a connected sum of such pieces.",
+   "words": [
+    {
+     "word": "Now",
+     "start": 89.515,
+     "end": 89.705
+    },
+    {
+     "word": "read",
+     "start": 89.705,
+     "end": 89.945
+    },
+    {
+     "word": "the",
+     "start": 89.945,
+     "end": 90.425
+    },
+    {
+     "word": "history",
+     "start": 90.425,
+     "end": 90.425
+    },
+    {
+     "word": "backwards.",
+     "start": 90.425,
+     "end": 90.885
+    },
+    {
+     "word": "Every",
+     "start": 91.865,
+     "end": 91.865
+    },
+    {
+     "word": "piece",
+     "start": 91.865,
+     "end": 92.125
+    },
+    {
+     "word": "that",
+     "start": 92.125,
+     "end": 92.785
+    },
+    {
+     "word": "vanished",
+     "start": 92.785,
+     "end": 92.785
+    },
+    {
+     "word": "was",
+     "start": 92.785,
+     "end": 93.185
+    },
+    {
+     "word": "built",
+     "start": 93.185,
+     "end": 93.385
+    },
+    {
+     "word": "from",
+     "start": 93.385,
+     "end": 93.585
+    },
+    {
+     "word": "the",
+     "start": 93.585,
+     "end": 93.785
+    },
+    {
+     "word": "three-sphere,",
+     "start": 93.785,
+     "end": 94.205
+    },
+    {
+     "word": "its",
+     "start": 94.765,
+     "end": 94.965
+    },
+    {
+     "word": "quotients,",
+     "start": 94.965,
+     "end": 95.405
+    },
+    {
+     "word": "and",
+     "start": 95.825,
+     "end": 95.945
+    },
+    {
+     "word": "the",
+     "start": 95.945,
+     "end": 96.105
+    },
+    {
+     "word": "product",
+     "start": 96.105,
+     "end": 96.385
+    },
+    {
+     "word": "of",
+     "start": 96.385,
+     "end": 96.545
+    },
+    {
+     "word": "a",
+     "start": 96.545,
+     "end": 96.665
+    },
+    {
+     "word": "two-sphere",
+     "start": 96.665,
+     "end": 97.065
+    },
+    {
+     "word": "and",
+     "start": 97.065,
+     "end": 97.285
+    },
+    {
+     "word": "a",
+     "start": 97.285,
+     "end": 97.705
+    },
+    {
+     "word": "circle.",
+     "start": 97.705,
+     "end": 97.705
+    },
+    {
+     "word": "So",
+     "start": 98.285,
+     "end": 98.545
+    },
+    {
+     "word": "M",
+     "start": 98.545,
+     "end": 98.725
+    },
+    {
+     "word": "is",
+     "start": 98.725,
+     "end": 98.905
+    },
+    {
+     "word": "a",
+     "start": 98.905,
+     "end": 99.085
+    },
+    {
+     "word": "connected",
+     "start": 99.085,
+     "end": 99.345
+    },
+    {
+     "word": "sum",
+     "start": 99.345,
+     "end": 99.625
+    },
+    {
+     "word": "of",
+     "start": 99.625,
+     "end": 99.845
+    },
+    {
+     "word": "such",
+     "start": 99.845,
+     "end": 100.005
+    },
+    {
+     "word": "pieces.",
+     "start": 100.005,
+     "end": 100.425
+    }
+   ]
+  },
+  {
+   "id": "c6b9",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "2.2",
+   "start": 100.685,
+   "end": 110.125,
+   "holdEnd": 110.375,
+   "text": "M is simply connected, so every piece must be simply connected too. Only the three-sphere qualifies. So M is the three-sphere, as a smooth manifold.",
+   "words": [
+    {
+     "word": "M",
+     "start": 100.945,
+     "end": 101.125
+    },
+    {
+     "word": "is",
+     "start": 101.125,
+     "end": 101.305
+    },
+    {
+     "word": "simply",
+     "start": 101.305,
+     "end": 101.585
+    },
+    {
+     "word": "connected,",
+     "start": 101.585,
+     "end": 101.945
+    },
+    {
+     "word": "so",
+     "start": 102.425,
+     "end": 102.605
+    },
+    {
+     "word": "every",
+     "start": 102.605,
+     "end": 102.965
+    },
+    {
+     "word": "piece",
+     "start": 102.965,
+     "end": 103.185
+    },
+    {
+     "word": "must",
+     "start": 103.185,
+     "end": 103.405
+    },
+    {
+     "word": "be",
+     "start": 103.405,
+     "end": 103.665
+    },
+    {
+     "word": "simply",
+     "start": 103.665,
+     "end": 103.945
+    },
+    {
+     "word": "connected",
+     "start": 103.945,
+     "end": 104.245
+    },
+    {
+     "word": "too.",
+     "start": 104.245,
+     "end": 104.645
+    },
+    {
+     "word": "Only",
+     "start": 105.365,
+     "end": 105.525
+    },
+    {
+     "word": "the",
+     "start": 105.525,
+     "end": 105.785
+    },
+    {
+     "word": "three-sphere",
+     "start": 105.785,
+     "end": 106.145
+    },
+    {
+     "word": "qualifies.",
+     "start": 106.145,
+     "end": 106.725
+    },
+    {
+     "word": "So",
+     "start": 107.245,
+     "end": 107.445
+    },
+    {
+     "word": "M",
+     "start": 107.445,
+     "end": 107.765
+    },
+    {
+     "word": "is",
+     "start": 107.765,
+     "end": 108.065
+    },
+    {
+     "word": "the",
+     "start": 108.065,
+     "end": 108.245
+    },
+    {
+     "word": "three-sphere,",
+     "start": 108.245,
+     "end": 108.685
+    },
+    {
+     "word": "as",
+     "start": 108.685,
+     "end": 109.185
+    },
+    {
+     "word": "a",
+     "start": 109.185,
+     "end": 109.445
+    },
+    {
+     "word": "smooth",
+     "start": 109.445,
+     "end": 109.625
+    },
+    {
+     "word": "manifold.",
+     "start": 109.625,
+     "end": 110.125
+    }
+   ]
+  },
+  {
+   "id": "c6b10",
+   "status": "proved",
+   "hold": "short",
+   "paragraph": "2.2",
+   "start": 110.375,
+   "end": 117.755,
+   "holdEnd": 118.555,
+   "text": "If M comes without a smooth structure, Moise's theorem supplies one. So the conjecture holds, exactly as Poincaré asked it.",
+   "words": [
+    {
+     "word": "If",
+     "start": 110.625,
+     "end": 110.785
+    },
+    {
+     "word": "M",
+     "start": 110.785,
+     "end": 111.045
+    },
+    {
+     "word": "comes",
+     "start": 111.045,
+     "end": 111.305
+    },
+    {
+     "word": "without",
+     "start": 111.305,
+     "end": 111.545
+    },
+    {
+     "word": "a",
+     "start": 111.545,
+     "end": 111.985
+    },
+    {
+     "word": "smooth",
+     "start": 111.985,
+     "end": 111.985
+    },
+    {
+     "word": "structure,",
+     "start": 111.985,
+     "end": 112.405
+    },
+    {
+     "word": "Moise's",
+     "start": 113.125,
+     "end": 113.585
+    },
+    {
+     "word": "theorem",
+     "start": 113.585,
+     "end": 113.585
+    },
+    {
+     "word": "supplies",
+     "start": 113.585,
+     "end": 113.985
+    },
+    {
+     "word": "one.",
+     "start": 113.985,
+     "end": 114.465
+    },
+    {
+     "word": "So",
+     "start": 114.605,
+     "end": 114.825
+    },
+    {
+     "word": "the",
+     "start": 114.825,
+     "end": 115.065
+    },
+    {
+     "word": "conjecture",
+     "start": 115.065,
+     "end": 115.405
+    },
+    {
+     "word": "holds,",
+     "start": 115.405,
+     "end": 115.765
+    },
+    {
+     "word": "exactly",
+     "start": 115.765,
+     "end": 116.485
+    },
+    {
+     "word": "as",
+     "start": 116.485,
+     "end": 116.885
+    },
+    {
+     "word": "Poincaré",
+     "start": 116.885,
+     "end": 117.165
+    },
+    {
+     "word": "asked",
+     "start": 117.165,
+     "end": 117.565
+    },
+    {
+     "word": "it.",
+     "start": 117.565,
+     "end": 117.755
+    }
+   ]
+  }
+ ]
+}

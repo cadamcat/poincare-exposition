@@ -1,0 +1,72 @@
+/* Design tokens. The only file, with tokens.js and fonts.css, that may
+   write a colour, a font family or a font size. */
+
+:root {
+  --paper: #F7F4EC;
+  --paper-raised: #FBF8F1;
+  --ink: #1C1B19;
+  --ink-muted: #5E5B55;
+  --rule: #D8D2C4;
+  --status-proved: #2F6B4F;
+  --status-claimed: #B7791F;
+  --status-heuristic: #8A8780;
+  --status-lean: #2B5C9E;
+  --obj-hopping: #4F5D8A;
+  --obj-potential: #A34F3A;
+  --obj-energy: #7A4A6E;
+  --obj-wave: #2E7D86;
+  --obj-damping: #8E8458;
+
+  --font-sans: "Source Sans 3", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --font-formula: "KaTeX_Main", serif;
+
+  --size-title: 60px;
+  --size-body: 42px;
+  --size-label: 32px;
+  --size-formula: 72px;
+  --size-code: 30px;
+  --size-subtitle: 36px;
+  --size-strip: 26px;
+  --size-chapter: 26px;
+
+  --margin-x: 120px;
+  --margin-top: 80px;
+  --col: 118px;
+  --gutter: 24px;
+}
+
+html, body {
+  margin: 0;
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
+
+.t-title { font-family: var(--font-sans); font-size: var(--size-title); font-weight: 600; line-height: 1.15; }
+.t-body { font-family: var(--font-sans); font-size: var(--size-body); font-weight: 400; line-height: 1.25; }
+.t-label { font-family: var(--font-sans); font-size: var(--size-label); font-weight: 400; line-height: 1.25; }
+.t-formula { font-family: var(--font-formula); font-size: var(--size-formula); font-weight: 400; line-height: 1.15; }
+.t-code { font-family: var(--font-mono); font-size: var(--size-code); font-weight: 400; line-height: 1.35; }
+.t-subtitle { font-family: var(--font-sans); font-size: var(--size-subtitle); font-weight: 400; line-height: 1.25; }
+.t-strip { font-family: var(--font-sans); font-size: var(--size-strip); font-weight: 400; line-height: 1; }
+.t-chapter { font-family: var(--font-sans); font-size: var(--size-chapter); font-weight: 400; line-height: 1.2; }
+
+.strong { font-weight: 600; }
+
+/* Formula host is the token size; KaTeX's own scale is cancelled here. */
+.t-formula .katex { font-size: 1em; }
+.t-code .lean-sym .katex { font-size: 1em; line-height: 1; }
+
+/* 12 columns over x 120–1800. Width of n columns: 142n − 24. */
+.col-0 { left: 120px; } .col-1 { left: 262px; } .col-2 { left: 404px; }
+.col-3 { left: 546px; } .col-4 { left: 688px; } .col-5 { left: 830px; }
+.col-6 { left: 972px; } .col-7 { left: 1114px; } .col-8 { left: 1256px; }
+.col-9 { left: 1398px; } .col-10 { left: 1540px; } .col-11 { left: 1682px; }
+.span-1 { width: 118px; } .span-2 { width: 260px; } .span-3 { width: 402px; }
+.span-4 { width: 544px; } .span-5 { width: 686px; } .span-6 { width: 828px; }
+.span-7 { width: 970px; } .span-8 { width: 1112px; } .span-9 { width: 1254px; }
+.span-10 { width: 1396px; } .span-11 { width: 1538px; } .span-12 { width: 1680px; }

@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+article/build/
+film/out/
+film/audio/*.wav
+__pycache__/
+.DS_Store
+*.flac
+film/audio/cache/

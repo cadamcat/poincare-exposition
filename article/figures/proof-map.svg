@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="560" viewBox="0 0 1500 560">
+<rect width="1500" height="560" fill="#F7F4EC"/>
+<rect x="40" y="60" width="260" height="118" rx="6" fill="#FBF8F1" stroke="#2F6B4F" stroke-width="3"/>
+<text x="170.0" y="98" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="22" font-weight="600" fill="#1C1B19" text-anchor="middle">Ricci flow</text>
+<text x="170.0" y="126" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="18" font-weight="400" fill="#5E5B55" text-anchor="middle">Hamilton 1982</text>
+<rect x="278" y="68" width="13" height="13" fill="#2B5C9E"/>
+<rect x="340" y="60" width="260" height="118" rx="6" fill="#FBF8F1" stroke="#2F6B4F" stroke-width="3"/>
+<text x="470.0" y="98" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="22" font-weight="600" fill="#1C1B19" text-anchor="middle">Noncollapsing</text>
+<text x="470.0" y="126" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="18" font-weight="400" fill="#5E5B55" text-anchor="middle">Perelman I, §§4, 7–8</text>
+<rect x="578" y="68" width="13" height="13" fill="#2B5C9E"/>
+<line x1="300" y1="119.0" x2="328.0" y2="119.0" stroke="#1C1B19" stroke-width="2"/><path d="M328.0,113.0 L340,119.0 L328.0,125.0 Z" fill="#1C1B19"/>
+<rect x="640" y="60" width="260" height="118" rx="6" fill="#FBF8F1" stroke="#2F6B4F" stroke-width="3"/>
+<text x="770.0" y="98" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="22" font-weight="600" fill="#1C1B19" text-anchor="middle">Canonical</text>
+<text x="770.0" y="126" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="18" font-weight="400" fill="#5E5B55" text-anchor="middle">neighbourhoods</text>
+<text x="770.0" y="150" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="18" font-weight="400" fill="#5E5B55" text-anchor="middle">I §12, II §1</text>
+<rect x="878" y="68" width="13" height="13" fill="#2B5C9E"/>
+<line x1="600" y1="119.0" x2="628.0" y2="119.0" stroke="#1C1B19" stroke-width="2"/><path d="M628.0,113.0 L640,119.0 L628.0,125.0 Z" fill="#1C1B19"/>
+<rect x="940" y="60" width="260" height="118" rx="6" fill="#FBF8F1" stroke="#2F6B4F" stroke-width="3"/>
+<text x="1070.0" y="98" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="22" font-weight="600" fill="#1C1B19" text-anchor="middle">Surgery</text>
+<text x="1070.0" y="126" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="18" font-weight="400" fill="#5E5B55" text-anchor="middle">II §§2–5</text>
+<rect x="1178" y="68" width="13" height="13" fill="#2B5C9E"/>
+<line x1="900" y1="119.0" x2="928.0" y2="119.0" stroke="#1C1B19" stroke-width="2"/><path d="M928.0,113.0 L940,119.0 L928.0,125.0 Z" fill="#1C1B19"/>
+<rect x="1240" y="60" width="260" height="118" rx="6" fill="#FBF8F1" stroke="#2F6B4F" stroke-width="3"/>
+<text x="1370.0" y="98" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="22" font-weight="600" fill="#1C1B19" text-anchor="middle">Finite extinction</text>
+<text x="1370.0" y="126" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="18" font-weight="400" fill="#5E5B55" text-anchor="middle">III; Colding–</text>
+<text x="1370.0" y="150" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="18" font-weight="400" fill="#5E5B55" text-anchor="middle">Minicozzi</text>
+<rect x="1478" y="68" width="13" height="13" fill="#2B5C9E"/>
+<line x1="1200" y1="119.0" x2="1228.0" y2="119.0" stroke="#1C1B19" stroke-width="2"/><path d="M1228.0,113.0 L1240,119.0 L1228.0,125.0 Z" fill="#1C1B19"/>
+<rect x="340" y="300" width="260" height="118" rx="6" fill="#FBF8F1" stroke="#2F6B4F" stroke-width="3"/>
+<text x="470.0" y="338" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="22" font-weight="600" fill="#1C1B19" text-anchor="middle">Topology</text>
+<text x="470.0" y="366" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="18" font-weight="400" fill="#5E5B55" text-anchor="middle">connected sums,</text>
+<text x="470.0" y="390" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="18" font-weight="400" fill="#5E5B55" text-anchor="middle">van Kampen</text>
+<rect x="578" y="308" width="13" height="13" fill="#2B5C9E"/>
+<rect x="640" y="300" width="260" height="118" rx="6" fill="#FBF8F1" stroke="#2F6B4F" stroke-width="3"/>
+<text x="770.0" y="338" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="22" font-weight="600" fill="#1C1B19" text-anchor="middle">Smooth Poincaré</text>
+<text x="770.0" y="366" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="18" font-weight="400" fill="#5E5B55" text-anchor="middle">diffeomorphic to S³</text>
+<rect x="878" y="308" width="13" height="13" fill="#2B5C9E"/>
+<line x1="600" y1="359.0" x2="628.0" y2="359.0" stroke="#1C1B19" stroke-width="2"/><path d="M628.0,353.0 L640,359.0 L628.0,365.0 Z" fill="#1C1B19"/>
+<rect x="940" y="300" width="260" height="118" rx="6" fill="#FBF8F1" stroke="#2F6B4F" stroke-width="3"/>
+<text x="1070.0" y="338" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="22" font-weight="600" fill="#1C1B19" text-anchor="middle">Moise smoothing</text>
+<text x="1070.0" y="366" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="18" font-weight="400" fill="#5E5B55" text-anchor="middle">Moise 1952</text>
+<rect x="1178" y="308" width="13" height="13" fill="#2B5C9E"/>
+<line x1="900" y1="359.0" x2="928.0" y2="359.0" stroke="#1C1B19" stroke-width="2"/><path d="M928.0,353.0 L940,359.0 L928.0,365.0 Z" fill="#1C1B19"/>
+<rect x="1240" y="300" width="260" height="118" rx="6" fill="#FBF8F1" stroke="#2F6B4F" stroke-width="3"/>
+<text x="1370.0" y="338" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="22" font-weight="600" fill="#1C1B19" text-anchor="middle">Topological</text>
+<text x="1370.0" y="366" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="18" font-weight="400" fill="#5E5B55" text-anchor="middle">Poincaré conjecture</text>
+<rect x="1478" y="308" width="13" height="13" fill="#2B5C9E"/>
+<line x1="1200" y1="359.0" x2="1228.0" y2="359.0" stroke="#1C1B19" stroke-width="2"/><path d="M1228.0,353.0 L1240,359.0 L1228.0,365.0 Z" fill="#1C1B19"/>
+<path d="M1370.0,178 L1370.0,240 L470.0,240" fill="none" stroke="#1C1B19" stroke-width="2"/>
+<line x1="470.0" y1="240" x2="470.0" y2="288.0" stroke="#1C1B19" stroke-width="2"/><path d="M476.0,288.0 L470.0,300 L464.0,288.0 Z" fill="#1C1B19"/>
+<rect x="40" y="464" width="22" height="16" fill="none" stroke="#2F6B4F" stroke-width="3"/>
+<text x="72" y="480" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="19" font-weight="400" fill="#1C1B19" text-anchor="start">proved in the literature (Perelman 2002–03, verified in the 2006 expositions)</text>
+<rect x="40" y="498" width="14" height="14" fill="#2B5C9E"/>
+<text x="72" y="511" font-family="'Source Sans 3', KaTeX_MainFB, sans-serif" font-size="19" font-weight="400" fill="#1C1B19" text-anchor="start">also formalized in Lean in the library behind the verified MathDB submission (Section 8)</text>
+</svg>

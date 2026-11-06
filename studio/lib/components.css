@@ -1,0 +1,164 @@
+/* Component geometry. Colour and type come from tokens.css classes and variables. */
+
+.stage-abs { position: absolute; }
+
+.strip {
+  position: absolute;
+  left: 0;
+  top: 1040px;
+  width: 1920px;
+  height: 40px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  padding-left: 120px;
+  color: var(--paper-raised);
+}
+.strip.st-proved { background: var(--status-proved); }
+.strip.st-claimed { background: var(--status-claimed); }
+.strip.st-heuristic {
+  background: var(--status-heuristic);
+  border-top: 2px dashed var(--paper-raised);
+}
+.strip.st-lean { background: var(--status-lean); }
+.strip.st-definition,
+.strip.st-context {
+  background: var(--rule);
+  color: var(--ink);
+}
+.seal {
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+  background: var(--paper-raised);
+  flex: none;
+}
+
+.ledger {
+  position: absolute;
+  display: flex;
+  background: var(--paper-raised);
+  border-radius: 6px;
+  box-sizing: border-box;
+  overflow: hidden;
+  color: var(--ink);
+}
+.ledger-bar { width: 4px; flex: none; }
+.ledger.st-proved .ledger-bar { background: var(--status-proved); }
+.ledger.st-claimed .ledger-bar { background: var(--status-claimed); }
+.ledger.st-heuristic {
+  border: 2px dashed var(--status-heuristic);
+}
+.ledger.st-heuristic .ledger-bar { background: var(--status-heuristic); }
+.ledger.st-lean .ledger-bar { background: var(--status-lean); }
+.ledger.st-definition .ledger-bar,
+.ledger.st-context .ledger-bar { background: var(--rule); }
+.ledger-body { padding: 14px 18px 16px; }
+.ledger-seal {
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+  margin-top: 6px;
+  background: var(--status-lean);
+  flex: none;
+}
+.ledger-line { margin-top: 4px; color: var(--ink-muted); }
+
+.badge {
+  position: absolute;
+  padding: 8px 14px;
+  border: 2px dashed var(--status-heuristic);
+  border-radius: 6px;
+  color: var(--ink);
+  background: var(--paper);
+  white-space: nowrap;
+}
+
+.chapter {
+  position: absolute;
+  left: 120px;
+  top: 24px;
+  color: var(--ink-muted);
+  white-space: nowrap;
+}
+
+.subtitle {
+  position: absolute;
+  left: 210px;
+  top: 908px;
+  width: 1500px;
+  height: 100px;
+  text-align: center;
+  color: var(--ink);
+  white-space: pre-line;
+}
+
+.equation {
+  position: absolute;
+  color: var(--ink);
+}
+.eq-layer { position: absolute; left: 0; top: 0; }
+.equation .katex-display { margin: 0; }
+
+.pmap { position: absolute; overflow: hidden; }
+.pmap svg { display: block; }
+.pmap text { fill: currentColor; }
+.pmap .node-dim { stroke: var(--rule); fill: var(--paper); }
+.pmap .node-active { fill: var(--paper-raised); }
+.pmap .node-done { fill: var(--paper); }
+.pmap .st-proved.node-active, .pmap .st-proved.node-done { stroke: var(--status-proved); }
+.pmap .st-claimed.node-active, .pmap .st-claimed.node-done { stroke: var(--status-claimed); }
+.pmap .st-heuristic.node-active, .pmap .st-heuristic.node-done { stroke: var(--status-heuristic); }
+.pmap .st-lean.node-active, .pmap .st-lean.node-done { stroke: var(--status-lean); }
+.pmap .st-definition.node-active, .pmap .st-definition.node-done { stroke: var(--rule); }
+.pmap .st-context.node-active, .pmap .st-context.node-done { stroke: var(--rule); }
+.pmap .node-active { stroke-width: 4px; }
+.pmap .node-done { stroke-width: 2px; }
+.pmap .node-dim { stroke-width: 2px; }
+.pmap .dim { color: var(--ink-muted); }
+.pmap .on { color: var(--ink); }
+.pmap .edge { fill: none; stroke: var(--rule); stroke-width: 2px; }
+.pmap .edge.on { stroke: var(--ink); }
+.pmap .node-seal { fill: var(--status-lean); stroke: none; }
+
+.lattice { position: absolute; overflow: hidden; }
+
+.clause {
+  position: absolute;
+  box-sizing: border-box;
+  padding: 14px 16px 14px 18px;
+  background: var(--paper);
+  border-radius: 6px;
+  color: var(--ink);
+}
+.clause { color: var(--ink-muted); }
+.clause.on {
+  color: var(--ink);
+  background: color-mix(in srgb, var(--status-lean) 9%, var(--paper-raised));
+  box-shadow: inset 6px 0 0 var(--status-lean);
+}
+.plain-line { white-space: normal; }
+.lean-line { white-space: pre; }
+.lean-sym {
+  display: inline-block;
+  vertical-align: -0.08em;
+  height: 1em;
+}
+.lean-col-label {
+  position: absolute;
+  color: var(--ink-muted);
+}
+
+/* paper.js: a paper as an object */
+.paper { position: absolute; }
+.paper-clip { position: absolute; left: 0; top: 0; width: 100%; height: 100%; overflow: hidden; }
+.paper-thumb { position: absolute; left: 0; top: 0; background: var(--paper-raised); outline: 1px solid var(--rule); }
+.paper-page { position: absolute; }
+.paper-zoom { position: absolute; left: 0; top: 0; width: 100%; height: 100%; transform-origin: 0 0;
+  background: var(--paper-raised); outline: 1px solid var(--rule); }
+.paper-ink { position: absolute; left: 0; top: 0; width: 100%; height: 100%; }
+.paper-ink rect { fill: var(--ink-muted); }
+.paper-hl { position: absolute; box-sizing: border-box; border: 3px solid var(--rule); border-radius: 4px; }
+.paper-hl.st-claimed { border-color: var(--status-claimed); }
+.paper-hl.st-lean { border-color: var(--status-lean); }
+.paper-hl.st-proved { border-color: var(--status-proved); }
